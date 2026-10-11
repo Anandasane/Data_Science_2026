@@ -1,0 +1,1201 @@
+student_id,branch,gender,city,cgpa,attendance_pct,projects_completed,internship_months,certifications_count,coding_score,aptitude_score,communication_score,backlogs,study_hours_per_week,placement_status,salary_lpa
+STU0001,ENTC,Male,Nagpur,8.07,90.7,3,2.0,1,59.7,74.0,67.3,1,18.9,Not Placed,
+STU0002,AI/ML,Male,Aurangabad,7.54,78.4,4,6.0,3,54.0,42.7,62.6,1,1.4,Not Placed,
+STU0003,Mechanical,Male,Aurangabad,7.61,84.9,1,1.0,2,65.6,74.7,84.1,0,14.8,Not Placed,
+STU0004,ENTC,Male,Other,8.29,83.5,1,0.0,2,61.4,51.0,66.1,0,19.6,Not Placed,
+STU0005,CSE,Female,Aurangabad,6.84,54.5,0,3.0,1,61.7,76.5,81.2,0,19.3,Not Placed,
+STU0006,Civil,Female,Pune,7.64,72.9,3,0.0,4,59.3,68.3,70.0,0,18.3,Not Placed,
+STU0007,ENTC,Male,Nagpur,7.27,81.5,1,0.0,3,53.7,59.8,66.9,2,20.4,Not Placed,
+STU0008,Mechanical,Male,Mumbai,5.94,78.4,2,0.0,4,71.6,71.2,70.0,0,0.0,Not Placed,
+STU0009,CSE,Female,Mumbai,6.63,84.5,1,6.0,0,38.2,67.2,50.5,0,23.7,Not Placed,
+STU0010,IT,Male,Other,9.25,93.3,2,12.0,2,82.9,90.9,74.3,0,16.0,Placed,9.38
+STU0011,AI/ML,Male,Nashik,8.0,78.8,3,2.0,2,82.1,69.0,79.7,0,22.0,Placed,5.61
+STU0012,Civil,Male,Other,6.21,71.4,2,0.0,2,62.0,61.3,80.8,1,7.0,Placed,5.3
+STU0013,ENTC,Male,Mumbai,5.98,85.2,2,6.0,2,49.8,56.9,49.7,0,3.5,Not Placed,
+STU0014,Mechanical,Male,Nagpur,7.48,78.7,2,0.0,2,75.2,69.0,46.6,1,24.7,Not Placed,
+STU0015,AI/ML,Female,Unknown,9.24,80.4,4,12.0,3,70.8,93.8,60.5,0,8.4,Placed,7.91
+STU0016,CSE,Male,Pune,7.4,79.1,3,3.0,1,55.4,59.5,87.3,0,12.1,Placed,5.35
+STU0017,IT,Female,Pune,8.97,100.0,2,0.0,3,64.8,82.4,73.5,0,17.2,Placed,4.76
+STU0018,CSE,Male,Nagpur,7.97,59.6,4,3.0,2,61.7,55.1,54.7,0,18.6,Not Placed,
+STU0019,Mechanical,Male,Pune,8.09,78.1,2,1.0,1,54.6,43.5,47.4,1,20.5,Placed,4.23
+STU0020,ENTC,Female,Other,6.2,82.0,1,6.0,2,63.3,63.4,58.7,0,15.3,Not Placed,
+STU0021,ENTC,Female,Pune,8.58,74.2,2,0.0,4,58.9,74.4,56.8,0,7.7,Not Placed,
+STU0022,AI/ML,Female,Pune,7.25,91.0,2,6.0,1,59.4,65.0,82.4,0,18.2,Placed,6.08
+STU0023,Civil,Male,Aurangabad,8.51,90.1,2,6.0,2,51.8,53.6,83.4,1,18.3,Not Placed,
+STU0024,Mechanical,Male,Pune,6.75,81.5,3,8.0,4,59.4,66.8,53.5,1,3.1,Not Placed,
+STU0025,ENTC,Female,Other,7.79,79.3,2,8.0,5,50.9,70.4,78.5,0,22.5,Placed,5.96
+STU0026,CSE,Male,Unknown,7.97,80.9,2,0.0,1,51.6,57.5,77.2,0,0.0,Not Placed,
+STU0027,IT,Male,Pune,7.44,81.0,1,3.0,0,57.6,49.7,51.6,1,20.2,Placed,4.64
+STU0028,CSE,Male,Nashik,8.02,81.2,6,6.0,2,82.3,65.4,67.0,1,10.2,Placed,5.6
+STU0029,CSE,Male,Nashik,7.32,80.1,4,2.0,1,68.5,73.2,72.8,1,18.2,Not Placed,
+STU0030,ENTC,Female,Aurangabad,6.92,84.5,1,0.0,4,61.1,69.2,70.8,1,17.1,Not Placed,
+STU0031,ENTC,Female,Other,9.29,89.5,0,1.0,2,65.0,64.2,45.2,0,13.8,Placed,6.29
+STU0032,Civil,Male,Nashik,8.7,69.7,0,0.0,1,59.9,71.5,68.6,1,16.7,Not Placed,
+STU0033,AI/ML,Female,Nagpur,6.8,71.5,6,8.0,1,73.3,72.8,75.9,0,13.5,Placed,7.66
+STU0034,AI/ML,Male,Mumbai,8.2,64.5,5,3.0,1,65.0,53.1,88.3,0,18.3,Placed,5.74
+STU0035,IT,Female,Nashik,6.82,90.7,5,6.0,0,71.8,65.3,59.9,0,27.1,Not Placed,
+STU0036,CSE,Female,Other,6.36,84.5,2,12.0,3,67.4,77.9,60.9,0,6.0,Placed,5.57
+STU0037,CSE,Female,Nagpur,8.69,87.1,4,1.0,3,62.8,56.7,65.9,0,0.0,Placed,6.72
+STU0038,IT,Male,Nashik,5.81,67.7,5,6.0,4,51.3,71.4,70.6,1,11.5,Not Placed,
+STU0039,CSE,Female,Mumbai,8.57,99.8,2,0.0,2,61.1,92.4,71.7,0,11.1,Not Placed,
+STU0040,ENTC,Female,Aurangabad,7.33,75.9,2,0.0,4,45.4,62.2,76.0,2,11.7,Not Placed,
+STU0041,AI/ML,Male,Other,7.38,83.7,5,0.0,1,61.7,61.9,52.7,0,8.4,Not Placed,
+STU0042,Mechanical,Female,Pune,8.03,90.5,2,1.0,1,76.8,82.0,74.8,1,19.2,Not Placed,
+STU0043,ENTC,Female,Pune,8.21,72.1,1,2.0,1,52.2,65.9,56.7,1,5.7,Not Placed,
+STU0044,AI/ML,Female,Nagpur,6.73,82.3,1,3.0,1,68.2,34.2,65.6,0,16.7,Not Placed,
+STU0045,Mechanical,Female,Nagpur,8.35,83.8,3,0.0,1,63.1,68.9,92.4,1,17.8,Placed,5.4
+STU0046,Mechanical,Female,Nagpur,7.72,100.0,3,0.0,2,85.3,75.1,50.8,1,15.9,Not Placed,
+STU0047,AI/ML,Male,Pune,6.28,85.0,2,4.0,6,47.8,70.5,64.7,0,16.9,Not Placed,
+STU0048,AI/ML,Female,Mumbai,7.42,98.1,2,0.0,1,59.1,57.4,52.3,0,19.7,Not Placed,
+STU0049,ENTC,Male,Nagpur,9.05,94.1,2,6.0,2,60.0,71.1,71.8,1,14.3,Placed,5.32
+STU0050,CSE,Male,Nagpur,9.36,85.7,5,8.0,3,69.8,86.3,83.4,1,11.9,Not Placed,
+STU0051,CSE,Female,Nashik,8.35,72.1,1,6.0,3,76.8,68.0,69.4,1,16.9,Not Placed,
+STU0052,CSE,Female,Aurangabad,6.35,82.3,5,4.0,4,65.8,44.4,69.0,0,17.6,Placed,6.27
+STU0053,Mechanical,Female,Nashik,8.12,67.0,0,4.0,1,70.5,82.0,85.0,1,19.3,Placed,4.88
+STU0054,ENTC,Male,Aurangabad,8.49,98.0,2,4.0,5,53.0,69.8,74.8,0,3.7,Not Placed,
+STU0055,ENTC,Female,Nashik,8.36,84.0,5,8.0,0,78.0,83.3,80.0,0,12.9,Placed,7.12
+STU0056,Mechanical,Male,Nagpur,8.42,55.5,5,12.0,5,62.1,50.3,75.1,3,7.6,Placed,8.04
+STU0057,IT,Male,Nashik,7.98,78.6,3,2.0,2,52.1,66.5,27.6,0,17.4,Not Placed,
+STU0058,IT,Male,Pune,7.52,88.5,1,4.0,5,61.5,73.3,67.9,1,18.4,Not Placed,
+STU0059,CSE,Male,Pune,6.96,79.6,2,6.0,1,60.5,62.7,52.9,0,12.4,Not Placed,
+STU0060,CSE,Prefer not to say,Nagpur,5.61,89.2,1,0.0,1,49.7,45.1,57.5,1,9.6,Not Placed,
+STU0061,ENTC,Female,Other,7.96,73.5,0,3.0,0,66.6,38.6,87.9,1,17.6,Not Placed,
+STU0062,IT,Male,Nashik,7.8,68.9,3,4.0,0,73.3,84.3,61.4,0,13.2,Not Placed,
+STU0063,IT,Female,Pune,8.19,81.3,0,6.0,2,75.3,72.1,94.7,0,22.6,Not Placed,
+STU0064,ENTC,Male,Nagpur,6.2,82.3,4,2.0,2,46.3,74.9,48.6,1,24.6,Not Placed,
+STU0065,ENTC,Male,Pune,8.28,78.5,3,1.0,2,82.1,80.3,52.6,0,20.0,Not Placed,
+STU0066,IT,Male,Aurangabad,9.76,94.3,6,0.0,1,99.6,84.5,80.4,0,15.4,Placed,8.25
+STU0067,IT,Female,Other,7.68,73.5,6,3.0,1,66.3,62.2,62.4,2,25.0,Not Placed,
+STU0068,AI/ML,Prefer not to say,Nagpur,7.54,85.1,3,8.0,0,46.5,72.8,72.9,2,15.4,Not Placed,
+STU0069,CSE,Male,Nagpur,7.92,82.3,3,8.0,2,51.3,85.4,66.8,0,11.1,Not Placed,
+STU0070,AI/ML,Male,Mumbai,9.73,66.4,4,1.0,1,72.0,74.8,64.4,0,9.9,Not Placed,
+STU0071,CSE,Prefer not to say,Mumbai,6.53,68.8,4,0.0,4,80.1,83.5,62.4,1,9.8,Not Placed,
+STU0072,AI/ML,Male,Other,7.81,82.1,4,6.0,1,66.8,49.7,70.8,0,14.0,Placed,6.38
+STU0073,Mechanical,Male,Aurangabad,6.76,100.0,2,6.0,4,51.0,46.1,79.4,0,16.8,Not Placed,
+STU0074,CSE,Male,Nagpur,7.03,87.8,4,3.0,4,55.7,76.9,91.5,1,5.5,Placed,4.63
+STU0075,CSE,Female,Mumbai,7.55,64.7,4,2.0,2,52.0,54.6,63.3,0,11.3,Not Placed,
+STU0076,AI/ML,Female,Pune,9.01,50.9,3,,3,79.6,93.5,59.0,0,15.3,Placed,5.96
+STU0077,AI/ML,Female,Pune,9.49,89.3,5,6.0,1,76.4,91.6,61.8,1,17.9,Placed,5.84
+STU0078,ENTC,Female,Pune,8.07,82.3,5,4.0,1,91.0,87.7,88.7,1,13.8,Placed,7.06
+STU0079,IT,Male,Mumbai,7.2,93.4,5,2.0,3,71.7,77.1,79.3,1,15.5,Placed,6.24
+STU0080,Mechanical,Male,Other,10.0,73.2,4,8.0,3,86.3,64.7,40.6,1,6.6,Placed,8.94
+STU0081,ENTC,Female,Nagpur,7.15,85.5,2,4.0,2,56.8,45.4,41.5,0,8.5,Not Placed,
+STU0082,AI/ML,Male,Pune,7.0,90.5,3,8.0,3,49.5,83.2,57.6,1,13.6,Not Placed,
+STU0083,Mechanical,Male,Pune,5.74,77.5,3,3.0,3,45.1,40.4,70.9,2,17.1,Not Placed,
+STU0084,CSE,Male,Mumbai,9.07,77.7,3,2.0,1,57.5,91.4,67.3,1,15.4,Placed,5.91
+STU0085,CSE,Male,Aurangabad,8.62,82.3,3,8.0,2,77.9,79.1,75.5,0,8.9,Placed,5.16
+STU0086,CSE,Male,Mumbai,10.0,87.4,5,12.0,1,76.2,76.6,66.4,1,12.6,Placed,9.15
+STU0087,ENTC,Male,Aurangabad,6.14,81.9,1,12.0,2,61.5,65.9,87.8,0,23.1,Not Placed,
+STU0088,IT,Female,Aurangabad,9.13,91.7,2,6.0,3,70.8,79.9,80.2,1,17.3,Placed,5.79
+STU0089,CSE,Male,Pune,7.67,77.4,2,3.0,1,59.0,64.1,68.8,0,13.0,Not Placed,
+STU0090,IT,Male,Nashik,8.45,68.7,4,0.0,3,58.2,85.8,82.7,0,7.8,Placed,7.58
+STU0091,CSE,Male,Other,5.87,100.0,2,2.0,1,55.5,78.4,47.3,1,9.7,Not Placed,
+STU0092,ENTC,Male,Mumbai,9.14,76.0,0,8.0,3,63.3,74.4,66.3,1,14.0,Not Placed,
+STU0093,AI/ML,Male,Pune,8.43,76.3,4,2.0,2,78.9,62.4,69.5,0,15.7,Placed,5.68
+STU0094,AI/ML,Female,Other,7.56,81.3,2,6.0,4,54.2,82.2,76.6,0,17.4,Not Placed,
+STU0095,AI/ML,Female,Other,8.28,82.7,4,8.0,2,75.2,45.4,44.3,0,16.3,Placed,7.31
+STU0096,ENTC,Female,Nagpur,6.8,78.1,4,12.0,2,77.8,68.3,64.1,0,11.8,Placed,6.97
+STU0097,AI/ML,Female,Nagpur,6.99,81.8,3,12.0,1,63.1,73.0,73.8,0,10.9,Placed,5.46
+STU0098,CSE,Female,Pune,7.11,81.6,0,3.0,4,62.8,54.7,74.9,2,26.3,Not Placed,
+STU0099,CSE,Male,Unknown,5.65,83.7,1,3.0,3,55.1,70.5,85.0,1,10.7,Not Placed,
+STU0100,Civil,Male,Nagpur,8.5,58.4,2,12.0,1,85.2,67.4,76.1,0,6.2,Placed,8.69
+STU0101,Civil,Female,Pune,8.85,100.0,1,0.0,1,69.7,67.6,69.5,0,4.2,Placed,5.97
+STU0102,ENTC,Male,Nashik,6.86,80.5,4,0.0,0,68.7,75.0,77.5,0,11.9,Not Placed,
+STU0103,AI/ML,Male,Other,7.97,87.8,6,12.0,4,71.1,56.0,66.1,2,19.6,Placed,7.64
+STU0104,Civil,Female,Other,7.32,82.3,2,6.0,3,52.3,74.4,68.6,0,10.5,Not Placed,
+STU0105,ENTC,Male,Pune,7.94,77.3,3,3.0,1,53.2,43.8,78.8,2,22.9,Not Placed,
+STU0106,ENTC,Male,Pune,6.94,75.3,4,0.0,3,74.8,66.6,66.8,1,14.0,Not Placed,
+STU0107,AI/ML,Male,Other,6.67,96.7,4,3.0,1,50.6,65.1,75.1,1,20.7,Not Placed,
+STU0108,AI/ML,Male,Other,8.7,76.1,4,12.0,0,78.7,64.2,81.0,1,9.5,Placed,8.69
+STU0109,CSE,Female,Nagpur,7.53,89.6,7,4.0,1,75.3,72.1,79.1,1,9.5,Not Placed,
+STU0110,Civil,Male,Nashik,9.72,75.5,0,2.0,1,77.7,73.9,84.7,1,14.5,Not Placed,
+STU0111,IT,Male,Nagpur,7.65,77.5,3,3.0,4,58.6,79.1,100.0,0,16.9,Placed,3.83
+STU0112,CSE,Male,Mumbai,6.63,79.5,6,8.0,3,56.6,69.1,77.8,1,12.9,Not Placed,
+STU0113,AI/ML,Male,Pune,8.89,94.8,1,8.0,7,63.2,79.1,63.3,1,15.8,Placed,7.22
+STU0114,IT,Female,Pune,8.26,63.1,4,2.0,1,66.0,70.8,73.1,0,17.5,Not Placed,
+STU0115,CSE,Female,Pune,8.36,68.8,1,4.0,2,51.2,62.7,73.2,0,5.5,Not Placed,
+STU0116,Mechanical,Male,Other,8.85,82.3,3,0.0,2,89.4,66.0,74.5,2,12.0,Not Placed,
+STU0117,ENTC,Male,Pune,6.91,71.1,5,2.0,1,56.0,65.5,87.9,1,10.9,Not Placed,
+STU0118,ENTC,Female,Pune,7.47,73.9,1,0.0,4,48.9,63.2,43.7,0,11.2,Not Placed,
+STU0119,AI/ML,Male,Nagpur,7.42,65.9,3,3.0,1,60.2,77.4,87.5,0,16.4,Not Placed,
+STU0120,IT,Male,Pune,6.24,74.7,2,3.0,3,67.0,61.3,93.3,3,11.0,Not Placed,
+STU0121,IT,Male,Pune,7.32,61.9,3,1.0,0,40.4,67.7,73.8,0,2.0,Not Placed,
+STU0122,ENTC,Male,Nagpur,9.0,71.8,3,0.0,4,82.5,54.6,75.3,1,12.6,Placed,6.47
+STU0123,CSE,Female,Mumbai,7.85,94.0,3,0.0,1,55.7,80.6,66.3,2,7.6,Placed,5.46
+STU0124,AI/ML,Male,Nashik,6.19,86.0,0,0.0,1,52.8,54.3,68.8,0,17.0,Not Placed,
+STU0125,CSE,Female,Other,5.97,83.9,1,6.0,3,44.3,47.6,78.2,3,18.8,Not Placed,
+STU0126,IT,Male,Pune,9.35,72.0,3,0.0,5,92.5,92.7,75.9,0,1.0,Placed,6.13
+STU0127,AI/ML,Female,Other,7.51,66.6,2,0.0,2,62.3,72.9,76.5,3,9.4,Not Placed,
+STU0128,CSE,Male,Other,6.92,70.6,4,12.0,2,63.2,74.3,75.6,0,16.1,Placed,6.37
+STU0129,CSE,Female,Other,7.31,81.6,4,0.0,0,61.0,70.9,80.8,0,5.5,Placed,5.67
+STU0130,IT,Female,Nashik,6.05,90.7,4,8.0,3,58.4,60.2,80.3,0,18.7,Placed,5.59
+STU0131,CSE,Male,Nashik,9.09,91.0,2,4.0,1,71.0,70.7,55.0,2,20.3,Not Placed,
+STU0132,Civil,Male,Nashik,7.19,88.3,2,6.0,2,63.8,75.1,80.6,1,13.0,Placed,4.88
+STU0133,IT,Male,Nashik,9.04,74.6,3,3.0,0,71.0,85.5,93.4,2,9.4,Not Placed,
+STU0134,AI/ML,Male,Pune,7.65,82.2,2,0.0,5,48.0,66.2,67.9,1,0.1,Not Placed,
+STU0135,IT,Male,Other,9.1,78.8,6,6.0,2,73.9,97.5,88.8,1,18.9,Placed,8.06
+STU0136,CSE,Male,Nagpur,7.87,80.0,4,6.0,3,73.0,65.3,55.2,1,26.0,Not Placed,
+STU0137,Civil,Female,Aurangabad,8.5,100.0,6,1.0,2,67.5,56.0,70.0,0,24.8,Placed,6.17
+STU0138,IT,Male,Mumbai,8.36,64.4,2,6.0,0,72.2,47.2,57.2,2,12.8,Placed,5.91
+STU0139,Mechanical,Male,Pune,8.25,79.7,5,3.0,2,71.2,49.0,87.3,0,7.4,Placed,4.99
+STU0140,CSE,Female,Nagpur,7.97,94.1,4,8.0,3,65.3,64.8,92.7,0,19.0,Not Placed,
+STU0141,IT,Female,Nagpur,7.36,67.3,1,6.0,1,70.2,61.2,69.0,0,13.2,Not Placed,
+STU0142,IT,Male,Mumbai,9.61,75.6,0,0.0,1,50.6,82.6,83.9,3,16.9,Not Placed,
+STU0143,Civil,Male,Mumbai,6.65,76.7,1,8.0,3,47.8,61.8,90.7,1,15.8,Placed,4.52
+STU0144,IT,Male,Pune,7.6,79.8,2,12.0,4,73.8,76.6,67.5,2,14.6,Placed,7.59
+STU0145,IT,Prefer not to say,Nagpur,7.62,66.0,2,6.0,1,79.9,65.5,68.1,1,20.2,Not Placed,
+STU0146,AI/ML,Male,Mumbai,8.02,88.0,0,0.0,4,82.6,69.4,79.2,0,20.4,Placed,5.77
+STU0147,AI/ML,Male,Other,7.15,88.7,3,6.0,0,61.7,58.7,57.2,0,10.9,Not Placed,
+STU0148,IT,Female,Pune,7.93,87.1,3,4.0,1,69.8,85.8,70.4,2,8.5,Not Placed,
+STU0149,AI/ML,Male,Mumbai,7.42,73.3,3,1.0,3,70.8,46.6,97.2,0,0.0,Placed,5.9
+STU0150,CSE,Female,Mumbai,5.94,82.9,0,8.0,1,61.6,63.5,61.3,1,11.9,Not Placed,
+STU0151,Mechanical,Male,Nagpur,7.61,73.0,1,3.0,0,62.7,63.5,79.1,0,7.4,Placed,3.5
+STU0152,Mechanical,Male,Nagpur,6.44,78.7,4,6.0,1,68.7,70.9,69.0,0,16.5,Placed,5.08
+STU0153,CSE,Female,Nashik,5.78,100.0,1,4.0,1,54.7,61.0,68.1,1,12.0,Not Placed,
+STU0154,IT,Female,Other,7.74,83.0,4,1.0,2,71.5,67.6,71.5,0,12.6,Not Placed,
+STU0155,CSE,Male,Mumbai,8.11,70.1,3,12.0,4,57.0,64.3,91.3,0,18.9,Placed,6.76
+STU0156,ENTC,Female,Nashik,8.15,83.8,3,3.0,2,63.1,86.0,76.2,0,16.4,Not Placed,
+STU0157,AI/ML,Male,Pune,8.2,68.5,1,3.0,4,57.4,67.7,76.6,1,13.3,Not Placed,
+STU0158,ENTC,Male,Pune,5.57,70.0,0,2.0,0,35.1,80.4,89.2,1,24.1,Not Placed,
+STU0159,ENTC,Male,Nagpur,6.17,71.6,6,0.0,2,45.6,62.8,62.9,1,18.4,Not Placed,
+STU0160,ENTC,Female,Pune,9.67,77.6,5,6.0,4,74.0,75.2,53.1,1,11.5,Not Placed,
+STU0161,CSE,Male,Nashik,6.5,91.4,3,2.0,2,55.2,61.5,94.1,2,11.8,Placed,5.03
+STU0162,Civil,Female,Nashik,8.24,87.8,4,8.0,1,69.9,76.9,70.8,1,18.7,Placed,7.23
+STU0163,CSE,Male,Aurangabad,6.88,87.2,3,12.0,3,65.3,57.3,81.4,0,15.2,Not Placed,
+STU0164,CSE,Female,Nagpur,7.68,71.0,2,6.0,3,63.8,67.5,56.2,0,7.3,Not Placed,
+STU0165,IT,Male,Nashik,6.94,76.6,1,0.0,3,53.5,63.4,73.0,0,19.4,Placed,4.2
+STU0166,AI/ML,Male,Mumbai,8.19,84.7,5,6.0,2,61.4,73.5,53.2,1,21.5,Not Placed,
+STU0167,Mechanical,Female,Pune,7.74,75.7,5,0.0,3,77.0,70.8,68.4,2,21.1,Placed,6.02
+STU0168,Mechanical,Female,Pune,7.13,79.2,2,6.0,1,58.1,69.3,58.8,0,23.3,Placed,5.86
+STU0169,AI/ML,Female,Nashik,6.5,86.4,2,3.0,3,51.5,63.8,56.5,1,26.4,Not Placed,
+STU0170,Civil,Female,Other,7.88,78.5,2,8.0,4,61.1,86.3,63.6,0,24.4,Not Placed,
+STU0171,AI/ML,Female,Pune,6.33,84.3,3,2.0,5,49.6,66.8,36.4,0,16.0,Not Placed,
+STU0172,IT,Male,Nagpur,8.05,97.9,2,0.0,5,58.6,100.0,53.9,0,12.7,Placed,4.04
+STU0173,AI/ML,Male,Aurangabad,10.0,80.3,3,12.0,2,63.2,77.2,79.0,1,3.0,Placed,8.25
+STU0174,Civil,Male,Other,9.02,93.8,7,3.0,4,76.0,85.6,74.5,1,14.1,Placed,5.5
+STU0175,CSE,Prefer not to say,Nagpur,8.35,87.6,3,8.0,1,74.0,61.9,53.9,1,17.1,Placed,7.08
+STU0176,CSE,Female,Nashik,7.51,67.3,2,8.0,2,65.1,81.4,74.1,1,14.3,Not Placed,
+STU0177,AI/ML,Male,Nashik,5.56,71.0,0,3.0,3,62.4,48.4,54.6,3,2.7,Not Placed,
+STU0178,Civil,Male,Other,6.21,73.7,5,2.0,5,72.4,65.4,77.4,0,12.3,Not Placed,
+STU0179,Mechanical,Male,Pune,8.95,73.5,3,3.0,1,90.1,68.2,65.6,1,17.9,Placed,6.66
+STU0180,ENTC,Male,Other,6.77,81.1,4,6.0,4,66.8,68.6,63.6,1,7.8,Placed,3.76
+STU0181,Mechanical,Male,Pune,6.87,88.1,1,12.0,0,61.2,61.6,67.7,2,15.0,Not Placed,
+STU0182,Mechanical,Female,Other,7.43,94.6,1,1.0,1,53.8,58.1,100.0,0,16.6,Not Placed,
+STU0183,IT,Male,Pune,6.48,85.1,4,6.0,4,68.0,59.2,58.0,0,20.7,Not Placed,
+STU0184,AI/ML,Prefer not to say,Pune,6.31,82.3,4,1.0,1,52.3,79.3,70.9,2,24.3,Not Placed,
+STU0185,ENTC,Male,Unknown,7.55,61.2,4,4.0,2,50.6,69.7,76.7,0,11.7,Not Placed,
+STU0186,ENTC,Female,Mumbai,6.66,82.7,6,6.0,1,79.9,47.4,54.9,0,15.1,Placed,5.28
+STU0187,AI/ML,Male,Mumbai,6.82,82.3,4,8.0,1,49.0,76.7,46.0,0,15.3,Placed,5.58
+STU0188,CSE,Female,Pune,6.78,83.8,4,2.0,1,65.6,52.8,69.0,2,17.9,Not Placed,
+STU0189,ENTC,Male,Mumbai,8.15,100.0,3,2.0,2,57.6,80.2,81.0,0,17.2,Placed,7.28
+STU0190,AI/ML,Female,Mumbai,7.36,94.4,1,0.0,3,69.5,73.9,64.9,0,22.6,Not Placed,
+STU0191,Civil,Male,Aurangabad,7.41,89.9,6,0.0,4,81.2,74.3,66.0,1,0.0,Not Placed,
+STU0192,CSE,Male,Other,8.23,72.4,4,2.0,1,74.1,90.5,79.8,0,16.5,Placed,6.27
+STU0193,CSE,Female,Nashik,7.45,76.9,3,8.0,3,75.2,55.6,56.3,0,16.9,Not Placed,
+STU0194,Mechanical,Female,Pune,7.31,81.1,4,2.0,2,64.1,72.8,66.9,2,12.6,Not Placed,
+STU0195,CSE,Male,Mumbai,8.09,74.2,5,1.0,1,92.4,83.0,46.1,0,0.4,Placed,7.28
+STU0196,CSE,Female,Other,8.3,87.0,2,6.0,0,72.6,62.6,73.3,3,13.6,Not Placed,
+STU0197,IT,Male,Unknown,7.45,85.6,3,0.0,2,53.7,57.6,71.9,0,9.7,Not Placed,
+STU0198,Mechanical,Male,Mumbai,7.68,71.1,4,0.0,2,66.6,62.3,78.1,0,24.1,Not Placed,
+STU0199,CSE,Male,Other,6.78,94.0,0,8.0,1,51.7,68.7,53.6,2,16.3,Not Placed,
+STU0200,AI/ML,Male,Other,6.7,83.0,2,0.0,2,54.3,46.2,65.7,2,9.2,Not Placed,
+STU0201,ENTC,Male,Mumbai,8.41,64.7,5,2.0,1,55.2,74.7,48.3,1,1.7,Not Placed,
+STU0202,Civil,Female,Nashik,8.07,81.5,3,3.0,3,69.8,51.8,64.7,0,17.5,Not Placed,
+STU0203,IT,Male,Mumbai,8.08,82.3,8,0.0,5,62.2,84.6,89.3,1,18.2,Not Placed,
+STU0204,CSE,Female,Aurangabad,7.89,91.7,2,1.0,4,37.8,75.3,64.9,3,12.7,Not Placed,
+STU0205,CSE,Female,Pune,7.65,78.6,5,0.0,2,64.3,89.5,48.7,0,17.6,Not Placed,
+STU0206,CSE,Female,Pune,8.33,90.3,2,1.0,1,57.8,78.8,59.7,0,11.9,Not Placed,
+STU0207,CSE,Male,Nashik,8.58,83.9,1,8.0,2,56.0,67.4,45.9,1,20.4,Placed,5.35
+STU0208,ENTC,Female,Pune,8.56,68.8,2,2.0,1,35.5,59.6,48.5,1,20.0,Not Placed,
+STU0209,CSE,Male,Nashik,7.49,67.8,3,2.0,2,54.4,67.5,75.9,0,4.2,Not Placed,
+STU0210,IT,Male,Mumbai,9.06,93.2,0,2.0,1,63.4,73.9,49.3,0,5.6,Placed,5.35
+STU0211,ENTC,Male,Other,7.84,94.0,5,12.0,1,62.4,83.4,74.1,1,26.2,Placed,6.08
+STU0212,IT,Prefer not to say,Aurangabad,8.26,85.2,2,0.0,0,68.8,58.8,69.0,1,19.6,Placed,6.23
+STU0213,CSE,Male,Nagpur,7.9,97.0,2,8.0,1,77.0,94.1,62.6,1,6.4,Placed,7.89
+STU0214,Mechanical,Male,Aurangabad,7.86,92.6,1,1.0,1,66.0,84.4,72.7,1,4.6,Placed,5.41
+STU0215,ENTC,Female,Pune,6.83,88.8,5,12.0,4,73.8,61.9,55.9,1,15.2,Not Placed,
+STU0216,ENTC,Male,Nagpur,8.34,72.9,4,1.0,4,80.5,90.3,78.9,1,7.1,Not Placed,
+STU0217,CSE,Male,Pune,10.0,99.3,1,0.0,4,61.8,69.5,60.5,2,12.1,Not Placed,
+STU0218,CSE,Male,Other,7.21,87.4,2,3.0,2,63.2,68.2,63.5,2,13.7,Not Placed,
+STU0219,Civil,Male,Other,7.67,78.1,5,0.0,0,77.8,51.3,60.7,2,13.5,Not Placed,
+STU0220,AI/ML,Prefer not to say,Other,7.13,75.3,7,6.0,3,64.7,86.1,77.1,0,20.8,Not Placed,
+STU0221,AI/ML,Male,Other,7.09,84.6,6,4.0,2,59.0,45.2,76.2,1,25.0,Placed,5.98
+STU0222,IT,Male,Other,9.22,65.3,5,6.0,2,81.2,54.3,29.5,1,11.1,Placed,6.98
+STU0223,ENTC,Male,Pune,6.89,89.0,1,0.0,1,41.0,57.0,72.6,1,7.2,Not Placed,
+STU0224,Civil,Male,Other,7.1,72.5,4,6.0,3,52.0,79.4,42.7,0,16.3,Placed,5.34
+STU0225,AI/ML,Female,Nagpur,5.93,85.7,6,1.0,3,54.2,71.6,63.9,1,23.8,Not Placed,
+STU0226,Civil,Male,Mumbai,6.8,76.8,4,12.0,0,65.9,64.2,66.1,0,11.6,Placed,6.4
+STU0227,CSE,Female,Nagpur,5.81,79.4,8,6.0,2,66.4,71.2,63.0,1,19.1,Not Placed,
+STU0228,IT,Female,Mumbai,8.26,74.4,4,4.0,2,79.3,67.2,74.3,0,9.0,Placed,5.6
+STU0229,ENTC,Male,Mumbai,10.0,80.4,3,8.0,0,66.8,81.7,78.1,0,14.1,Not Placed,
+STU0230,CSE,Male,Pune,7.21,100.0,2,4.0,1,49.7,87.1,59.6,0,7.0,Placed,3.87
+STU0231,CSE,Male,Pune,5.85,95.9,3,3.0,1,59.7,58.1,58.6,2,14.1,Not Placed,
+STU0232,AI/ML,Male,Nagpur,8.54,85.5,3,0.0,2,60.4,61.9,68.2,2,13.3,Not Placed,
+STU0233,Civil,Female,Other,6.84,81.7,2,4.0,4,51.5,69.2,46.6,0,17.6,Not Placed,
+STU0234,IT,Female,Nashik,8.96,90.4,6,2.0,4,58.0,82.4,62.6,1,24.7,Placed,5.8
+STU0235,Civil,Female,Nagpur,7.3,93.3,4,0.0,1,66.9,68.2,88.5,0,11.7,Placed,4.73
+STU0236,Mechanical,Prefer not to say,Mumbai,6.94,73.7,0,6.0,0,69.5,75.0,46.2,0,2.0,Not Placed,
+STU0237,IT,Female,Nagpur,7.41,81.2,1,0.0,2,48.2,63.5,63.4,1,12.8,Not Placed,
+STU0238,Mechanical,Male,Pune,8.4,63.8,6,4.0,0,83.9,69.5,57.8,0,15.8,Placed,5.28
+STU0239,CSE,Male,Other,7.36,93.2,8,0.0,4,71.7,71.6,97.7,0,15.2,Not Placed,
+STU0240,CSE,Prefer not to say,Pune,7.08,100.0,1,2.0,1,39.2,70.2,62.9,1,13.1,Not Placed,
+STU0241,Mechanical,Female,Nashik,7.39,82.8,1,6.0,4,49.5,85.3,61.6,1,22.9,Not Placed,
+STU0242,Mechanical,Female,Aurangabad,6.26,60.7,1,0.0,2,43.0,63.0,51.3,0,14.8,Placed,4.26
+STU0243,CSE,Female,Unknown,8.02,88.1,4,4.0,1,63.2,65.6,69.1,0,13.4,Placed,5.8
+STU0244,IT,Female,Unknown,5.72,73.0,0,4.0,3,51.9,64.1,70.9,1,9.3,Not Placed,
+STU0245,IT,Female,Mumbai,7.13,75.4,5,8.0,1,83.6,76.1,55.0,0,3.5,Placed,6.7
+STU0246,Mechanical,Male,Other,8.4,88.3,3,0.0,1,53.4,80.2,82.8,1,16.0,Placed,5.06
+STU0247,IT,Male,Aurangabad,7.92,84.5,1,6.0,4,56.3,77.0,72.3,1,15.5,Not Placed,
+STU0248,AI/ML,Male,Aurangabad,8.22,77.1,1,2.0,1,53.8,50.8,79.6,0,7.6,Not Placed,
+STU0249,AI/ML,Male,Nashik,7.53,75.5,1,2.0,2,46.5,35.8,62.9,1,13.7,Placed,3.17
+STU0250,AI/ML,Female,Other,8.83,83.3,2,2.0,1,68.9,87.4,71.8,0,13.1,Not Placed,
+STU0251,ENTC,Male,Other,8.57,77.9,4,2.0,2,70.6,75.6,64.8,0,10.3,Not Placed,
+STU0252,Mechanical,Male,Mumbai,8.07,70.9,4,3.0,4,49.8,67.1,87.3,1,9.2,Placed,6.31
+STU0253,IT,Male,Aurangabad,8.57,78.7,3,0.0,1,68.7,78.8,69.5,2,16.4,Placed,7.88
+STU0254,CSE,Male,Aurangabad,8.39,85.4,2,2.0,3,53.6,93.6,68.8,1,12.6,Not Placed,
+STU0255,CSE,Female,Mumbai,7.14,80.2,2,4.0,3,59.2,81.6,61.6,4,10.5,Not Placed,
+STU0256,ENTC,Female,Other,6.19,67.9,2,3.0,3,66.9,70.7,59.3,0,8.8,Not Placed,
+STU0257,Mechanical,Female,Mumbai,8.04,91.9,0,0.0,0,64.4,59.2,72.8,0,13.2,Not Placed,
+STU0258,CSE,Male,Nagpur,8.17,54.6,1,2.0,4,64.3,56.8,76.4,0,19.5,Placed,7.05
+STU0259,CSE,Male,Pune,8.74,77.5,6,2.0,1,70.2,42.4,58.1,0,15.2,Placed,5.2
+STU0260,IT,Female,Pune,6.62,75.8,2,4.0,3,57.1,69.5,69.3,1,12.6,Not Placed,
+STU0261,CSE,Male,Other,6.65,83.5,4,8.0,2,66.2,76.3,71.0,1,15.9,Not Placed,
+STU0262,Mechanical,Male,Mumbai,8.08,87.6,7,3.0,0,78.7,83.7,73.9,0,22.2,Not Placed,
+STU0263,AI/ML,Female,Mumbai,7.53,93.3,1,4.0,3,58.2,75.9,45.7,0,16.9,Placed,5.94
+STU0264,CSE,Female,Pune,5.62,74.9,5,0.0,2,59.4,55.7,54.4,2,15.6,Not Placed,
+STU0265,Civil,Male,Nagpur,7.99,87.9,2,12.0,0,50.4,62.3,49.8,0,17.8,Placed,6.82
+STU0266,CSE,Male,Aurangabad,5.65,84.0,1,1.0,5,42.0,48.9,68.9,1,13.1,Not Placed,
+STU0267,AI/ML,Male,Other,6.61,64.9,2,1.0,2,63.4,58.6,53.6,1,15.1,Not Placed,
+STU0268,CSE,Female,Pune,9.02,100.0,1,0.0,3,75.3,63.2,63.5,1,11.1,Placed,7.39
+STU0269,CSE,Male,Nagpur,9.52,67.6,0,0.0,2,68.4,94.2,49.8,0,4.7,Placed,7.07
+STU0270,CSE,Female,Nagpur,6.32,86.2,3,6.0,3,71.7,46.3,63.1,1,16.1,Not Placed,
+STU0271,CSE,Male,Nashik,7.25,85.9,7,0.0,3,74.8,63.4,53.0,1,16.1,Not Placed,
+STU0272,CSE,Female,Mumbai,7.64,84.8,3,1.0,4,61.4,44.0,79.2,3,12.3,Not Placed,
+STU0273,CSE,Female,Mumbai,9.47,77.1,5,0.0,2,65.0,77.6,74.4,0,20.2,Placed,6.8
+STU0274,IT,Male,Nagpur,7.08,90.3,4,12.0,3,77.2,65.5,71.3,0,9.7,Not Placed,
+STU0275,ENTC,Male,Nagpur,7.1,66.4,3,6.0,3,68.6,58.5,62.1,2,3.4,Not Placed,
+STU0276,AI/ML,Male,Nagpur,9.23,81.3,2,8.0,2,88.0,62.3,39.6,0,9.8,Placed,7.99
+STU0277,AI/ML,Male,Nagpur,7.21,76.4,3,8.0,1,83.2,64.5,61.2,0,4.8,Not Placed,
+STU0278,IT,Prefer not to say,Aurangabad,8.36,75.2,6,8.0,1,60.6,62.6,56.8,0,16.0,Placed,7.35
+STU0279,Mechanical,Male,Aurangabad,6.05,86.3,7,3.0,0,50.6,59.1,72.2,1,9.5,Not Placed,
+STU0280,Mechanical,Male,Mumbai,7.42,92.8,2,0.0,3,32.0,90.8,78.2,0,19.9,Not Placed,
+STU0281,CSE,Male,Aurangabad,5.86,78.6,5,1.0,3,67.7,61.1,72.4,1,19.8,Not Placed,
+STU0282,CSE,Female,Other,6.49,89.8,1,1.0,2,60.3,69.4,86.9,0,8.5,Placed,5.52
+STU0283,CSE,Male,Pune,8.48,82.5,4,6.0,4,71.1,64.9,60.3,1,9.2,Placed,7.44
+STU0284,CSE,Female,Nagpur,7.55,73.1,0,0.0,2,45.0,56.1,58.6,2,17.2,Not Placed,
+STU0285,IT,Male,Mumbai,7.26,79.4,3,0.0,2,60.9,64.7,82.5,0,19.9,Not Placed,
+STU0286,AI/ML,Female,Aurangabad,6.81,79.0,3,6.0,1,63.2,93.1,70.2,1,1.9,Not Placed,
+STU0287,CSE,Prefer not to say,Pune,7.37,75.0,1,0.0,3,66.2,61.5,63.9,0,15.7,Not Placed,
+STU0288,AI/ML,Male,Nashik,7.92,86.3,2,0.0,3,65.9,73.0,94.6,1,0.8,Placed,5.9
+STU0289,IT,Male,Pune,8.63,84.3,4,0.0,5,77.5,61.4,76.6,0,10.7,Placed,5.41
+STU0290,CSE,Male,Nagpur,4.84,66.1,5,6.0,1,51.9,20.2,63.7,1,20.6,Not Placed,
+STU0291,Mechanical,Female,Other,6.73,65.5,2,0.0,1,68.8,51.6,56.7,1,32.1,Not Placed,
+STU0292,CSE,Male,Mumbai,7.77,86.2,4,0.0,3,72.7,96.5,87.3,0,12.6,Placed,5.48
+STU0293,Civil,Male,Other,7.5,73.8,3,0.0,0,51.1,72.5,70.2,0,6.5,Not Placed,
+STU0294,CSE,Male,Other,8.02,85.0,3,6.0,2,79.6,88.6,68.9,0,10.9,Placed,6.78
+STU0295,Mechanical,Male,Other,7.88,89.8,3,0.0,2,77.2,64.7,78.6,0,14.4,Placed,6.45
+STU0296,Civil,Male,Pune,7.28,69.3,1,0.0,5,62.5,35.6,79.0,1,10.0,Not Placed,
+STU0297,Civil,Male,Aurangabad,7.05,67.9,2,8.0,2,61.5,49.5,74.2,2,8.5,Not Placed,
+STU0298,Mechanical,Male,Pune,7.34,98.7,1,8.0,2,74.8,72.4,82.6,1,11.4,Not Placed,
+STU0299,ENTC,Female,Mumbai,8.81,85.5,3,0.0,3,53.5,75.1,75.0,1,16.4,Placed,5.52
+STU0300,ENTC,Male,Other,6.83,77.8,1,0.0,4,63.2,62.9,75.5,0,13.0,Placed,4.82
+STU0301,ENTC,Male,Nashik,7.53,72.7,4,,3,60.4,59.0,56.9,0,8.7,Not Placed,
+STU0302,CSE,Male,Nagpur,7.79,76.9,4,6.0,3,77.5,78.2,93.0,2,10.0,Placed,6.67
+STU0303,IT,Female,Mumbai,9.24,70.1,6,0.0,3,79.3,66.2,49.5,1,11.5,Placed,5.88
+STU0304,IT,Male,Aurangabad,7.28,90.8,5,8.0,2,53.4,70.2,73.6,0,8.0,Placed,5.3
+STU0305,Mechanical,Male,Nashik,8.61,74.2,3,,1,63.8,72.4,48.6,0,9.8,Not Placed,
+STU0306,IT,Male,Nagpur,8.89,92.9,3,4.0,3,80.4,69.1,68.2,1,17.9,Placed,5.27
+STU0307,AI/ML,Male,Other,7.53,78.0,1,0.0,0,57.1,55.4,59.8,0,12.6,Not Placed,
+STU0308,ENTC,Male,Pune,7.38,71.6,6,8.0,0,62.2,59.5,68.9,0,3.5,Placed,7.08
+STU0309,AI/ML,Female,Pune,7.25,77.7,4,6.0,2,57.4,87.3,72.5,1,20.1,Not Placed,
+STU0310,CSE,Male,Nashik,7.33,55.8,3,6.0,1,68.5,75.8,51.7,0,16.5,Placed,7.69
+STU0311,IT,Female,Other,8.5,82.3,1,0.0,1,81.7,82.6,67.7,1,5.7,Not Placed,
+STU0312,AI/ML,Female,Pune,7.84,80.3,4,6.0,1,45.4,58.1,87.5,0,11.8,Placed,5.68
+STU0313,CSE,Male,Pune,7.85,90.2,2,6.0,3,90.8,51.5,50.9,0,9.2,Not Placed,
+STU0314,AI/ML,Male,Pune,6.42,63.1,5,12.0,3,63.4,72.7,54.0,1,18.1,Not Placed,
+STU0315,AI/ML,Male,Other,6.58,93.6,6,4.0,6,70.0,74.7,81.7,0,11.8,Placed,6.0
+STU0316,AI/ML,Female,Pune,9.85,90.2,1,3.0,2,66.9,78.8,70.3,3,13.6,Placed,6.64
+STU0317,AI/ML,Female,Nagpur,7.41,94.5,2,2.0,1,60.5,63.0,71.9,0,12.9,Placed,4.52
+STU0318,ENTC,Male,Other,6.79,81.5,2,6.0,1,59.2,45.7,82.5,1,5.1,Not Placed,
+STU0319,AI/ML,Female,Unknown,9.1,82.3,2,8.0,3,58.8,84.7,58.3,1,22.4,Not Placed,
+STU0320,Civil,Female,Nagpur,7.9,67.3,4,4.0,4,59.0,80.5,59.2,0,18.0,Not Placed,
+STU0321,Civil,Female,Nagpur,8.21,89.1,0,0.0,2,72.5,62.0,60.1,0,9.5,Placed,5.31
+STU0322,IT,Male,Aurangabad,7.46,74.3,5,0.0,2,51.3,56.1,62.4,1,15.2,Not Placed,
+STU0323,AI/ML,Male,Mumbai,7.27,65.5,2,4.0,2,64.2,78.3,85.0,1,19.8,Not Placed,
+STU0324,IT,Male,Mumbai,7.42,70.8,5,8.0,5,62.9,57.0,43.1,0,14.3,Placed,7.04
+STU0325,Mechanical,Male,Pune,6.15,82.1,3,0.0,2,46.4,82.0,51.5,1,23.3,Not Placed,
+STU0326,ENTC,Female,Aurangabad,7.51,73.8,2,2.0,3,80.8,64.1,48.1,2,31.5,Not Placed,
+STU0327,Mechanical,Female,Aurangabad,7.91,85.8,3,12.0,4,55.6,63.9,88.3,0,13.2,Placed,7.66
+STU0328,IT,Male,Pune,9.54,63.9,1,3.0,3,58.3,73.3,57.5,1,10.5,Placed,6.63
+STU0329,ENTC,Female,Mumbai,7.69,60.7,0,,2,56.1,59.9,61.1,2,8.1,Not Placed,
+STU0330,AI/ML,Female,Other,5.15,95.7,3,1.0,0,43.1,71.6,47.3,2,0.7,Not Placed,
+STU0331,ENTC,Female,Pune,7.5,91.0,2,2.0,1,61.1,78.0,65.6,3,21.5,Placed,5.76
+STU0332,CSE,Female,Mumbai,10.0,71.5,5,0.0,4,81.6,88.6,79.1,1,11.9,Not Placed,
+STU0333,ENTC,Male,Nagpur,8.51,82.0,1,4.0,1,66.6,72.8,71.8,0,19.3,Not Placed,
+STU0334,Mechanical,Male,Mumbai,6.75,92.2,4,4.0,1,59.9,58.9,68.0,1,20.5,Not Placed,
+STU0335,CSE,Female,Pune,8.22,86.2,4,4.0,0,61.7,69.8,46.8,0,7.5,Not Placed,
+STU0336,IT,Male,Nagpur,6.82,83.5,2,4.0,0,63.9,58.6,63.8,1,8.4,Placed,6.27
+STU0337,CSE,Male,Pune,6.18,93.0,2,0.0,0,53.0,79.7,71.6,1,24.5,Not Placed,
+STU0338,ENTC,Male,Nagpur,7.23,74.7,2,0.0,5,63.2,76.4,53.5,1,13.6,Not Placed,
+STU0339,CSE,Male,Nashik,7.7,82.3,3,0.0,4,63.2,66.1,77.4,0,10.0,Not Placed,
+STU0340,Civil,Male,Nagpur,5.63,81.8,2,0.0,3,50.1,47.3,80.6,2,7.7,Not Placed,
+STU0341,CSE,Male,Pune,6.39,79.3,4,6.0,3,70.1,79.8,60.5,0,13.2,Placed,7.49
+STU0342,Civil,Female,Other,7.61,78.1,4,0.0,1,77.8,68.0,77.9,0,23.0,Placed,4.84
+STU0343,Mechanical,Female,Pune,7.17,82.7,3,4.0,0,74.2,63.5,66.8,2,18.1,Placed,6.2
+STU0344,IT,Female,Aurangabad,8.01,82.3,5,0.0,1,76.6,87.1,84.3,2,15.1,Placed,5.38
+STU0345,Mechanical,Male,Mumbai,6.32,71.5,2,0.0,2,54.9,54.0,95.5,0,23.5,Not Placed,
+STU0346,Mechanical,Male,Aurangabad,8.35,90.0,4,0.0,2,68.8,67.0,53.9,2,22.4,Not Placed,
+STU0347,Civil,Female,Pune,6.36,82.3,1,3.0,0,50.6,57.6,77.8,0,16.0,Placed,3.99
+STU0348,AI/ML,Male,Pune,9.32,79.8,3,4.0,2,50.8,57.9,86.2,2,30.7,Placed,6.24
+STU0349,IT,Female,Nagpur,5.8,79.0,5,6.0,3,65.3,62.6,54.3,5,12.5,Not Placed,
+STU0350,CSE,Female,Pune,6.45,85.6,2,0.0,4,58.0,53.2,60.6,1,20.6,Placed,4.64
+STU0351,IT,Female,Pune,8.04,60.8,1,4.0,1,70.1,59.2,57.5,3,11.6,Not Placed,
+STU0352,CSE,Male,Aurangabad,9.35,90.9,5,6.0,0,75.4,66.7,67.4,1,19.4,Placed,6.29
+STU0353,IT,Female,Other,7.93,75.2,1,1.0,2,67.9,60.3,62.4,0,12.5,Placed,6.2
+STU0354,IT,Female,Pune,8.19,94.2,4,0.0,2,54.8,60.6,66.9,0,16.8,Placed,4.93
+STU0355,IT,Female,Other,7.62,77.2,2,0.0,2,49.9,69.2,79.4,2,28.3,Placed,2.88
+STU0356,IT,Male,Aurangabad,6.52,81.5,5,0.0,3,37.1,60.3,41.6,0,19.7,Not Placed,
+STU0357,ENTC,Male,Other,7.09,100.0,3,8.0,1,59.5,67.4,56.8,1,16.9,Not Placed,
+STU0358,Mechanical,Male,Unknown,6.33,79.2,2,2.0,2,47.2,89.3,77.3,2,9.4,Not Placed,
+STU0359,IT,Male,Nashik,6.26,94.4,1,3.0,3,43.5,60.8,77.5,1,15.1,Not Placed,
+STU0360,IT,Male,Nagpur,8.02,82.4,4,6.0,1,71.1,75.8,53.5,0,8.0,Placed,7.01
+STU0361,Civil,Prefer not to say,Nashik,6.42,86.2,3,2.0,1,53.1,70.9,76.6,1,19.3,Not Placed,
+STU0362,CSE,Male,Other,7.94,82.7,4,4.0,0,53.0,67.5,86.9,0,19.2,Not Placed,
+STU0363,CSE,Male,Pune,6.23,90.5,4,0.0,0,83.8,65.3,68.6,0,12.9,Not Placed,
+STU0364,CSE,Male,Mumbai,7.91,75.1,0,3.0,3,58.8,67.5,53.3,1,24.0,Not Placed,
+STU0365,ENTC,Male,Pune,7.09,72.2,1,0.0,2,46.0,65.9,79.3,0,23.1,Not Placed,
+STU0366,AI/ML,Male,Other,9.08,75.6,6,0.0,2,70.5,65.2,91.6,0,14.9,Not Placed,
+STU0367,ENTC,Female,Mumbai,7.94,83.0,2,1.0,2,61.6,62.4,56.0,1,17.4,Not Placed,
+STU0368,ENTC,Female,Nashik,8.9,82.3,3,6.0,2,68.5,72.2,68.5,0,10.5,Placed,7.04
+STU0369,AI/ML,Male,Other,6.81,89.1,7,4.0,3,80.4,40.6,84.4,0,12.4,Placed,6.37
+STU0370,Mechanical,Male,Other,7.66,95.0,1,6.0,4,59.0,86.5,71.4,0,7.5,Not Placed,
+STU0371,ENTC,Male,Pune,6.57,72.2,5,0.0,3,80.7,87.2,42.6,1,11.1,Not Placed,
+STU0372,AI/ML,Male,Aurangabad,7.17,74.7,1,12.0,4,53.0,66.1,73.6,0,13.4,Not Placed,
+STU0373,AI/ML,Male,Other,7.32,67.6,2,0.0,2,64.3,71.8,52.8,2,4.0,Not Placed,
+STU0374,AI/ML,Male,Pune,6.84,100.0,4,6.0,2,71.8,78.7,52.6,0,17.5,Placed,7.34
+STU0375,CSE,Female,Aurangabad,6.32,85.0,1,6.0,4,64.8,45.8,44.4,3,20.1,Not Placed,
+STU0376,CSE,Female,Mumbai,6.12,86.8,1,4.0,2,64.9,72.3,85.5,1,14.0,Placed,4.66
+STU0377,Civil,Male,Nashik,5.14,68.6,4,2.0,2,50.0,49.7,54.9,1,0.0,Not Placed,
+STU0378,AI/ML,Male,Nagpur,6.49,82.0,5,6.0,1,61.7,89.6,72.9,2,12.5,Not Placed,
+STU0379,AI/ML,Prefer not to say,Pune,8.26,87.1,2,6.0,2,63.2,67.9,77.0,0,5.6,Placed,3.84
+STU0380,ENTC,Male,Pune,5.92,79.5,1,0.0,4,48.8,70.3,70.2,1,10.3,Not Placed,
+STU0381,IT,Male,Pune,6.16,92.8,3,6.0,1,66.9,59.9,73.7,0,22.7,Placed,6.81
+STU0382,Civil,Female,Pune,9.48,100.0,5,0.0,1,86.3,100.0,75.7,0,0.0,Placed,6.05
+STU0383,Mechanical,Male,Nashik,6.93,72.5,2,3.0,1,57.2,56.7,69.0,0,9.1,Placed,4.92
+STU0384,IT,Female,Mumbai,7.94,71.8,3,4.0,2,82.3,80.9,56.4,1,19.0,Placed,5.21
+STU0385,AI/ML,Male,Pune,8.27,73.2,5,,2,67.2,76.0,55.3,1,9.8,Placed,5.21
+STU0386,Civil,Male,Nashik,8.3,98.1,1,3.0,1,56.0,76.5,68.7,0,9.3,Placed,4.8
+STU0387,ENTC,Female,Nashik,6.0,92.4,2,0.0,1,48.5,64.0,67.7,1,26.2,Not Placed,
+STU0388,Civil,Male,Nagpur,7.36,80.6,0,3.0,3,45.0,57.6,74.1,3,16.3,Not Placed,
+STU0389,CSE,Female,Other,5.9,82.4,3,0.0,3,63.2,28.6,83.7,1,19.6,Not Placed,
+STU0390,Mechanical,Female,Mumbai,10.0,73.8,3,3.0,4,78.9,88.7,72.1,0,17.0,Placed,7.09
+STU0391,ENTC,Female,Other,5.93,90.9,7,3.0,2,68.9,54.9,58.0,0,15.0,Not Placed,
+STU0392,CSE,Female,Pune,6.5,78.2,4,6.0,6,55.7,75.7,37.2,0,21.6,Not Placed,
+STU0393,IT,Male,Aurangabad,6.51,79.4,7,0.0,4,65.3,66.1,57.2,0,25.4,Not Placed,
+STU0394,ENTC,Male,Other,6.03,88.1,5,0.0,0,37.6,75.3,50.1,0,3.9,Not Placed,
+STU0395,CSE,Male,Other,9.02,80.1,4,3.0,2,76.7,82.1,57.8,2,13.8,Not Placed,
+STU0396,IT,Male,Nagpur,10.0,79.7,3,0.0,6,77.0,47.0,71.4,2,13.7,Placed,6.12
+STU0397,Mechanical,Female,Nashik,7.1,82.1,2,0.0,2,47.9,72.1,69.4,2,11.4,Not Placed,
+STU0398,AI/ML,Female,Mumbai,6.21,90.0,2,1.0,1,53.2,57.8,95.2,0,19.9,Not Placed,
+STU0399,IT,Male,Nashik,5.25,98.5,5,3.0,2,52.7,72.9,77.0,1,15.5,Not Placed,
+STU0400,AI/ML,Female,Aurangabad,7.34,87.9,0,0.0,2,73.8,73.5,95.7,1,25.6,Placed,5.06
+STU0401,AI/ML,Male,Other,7.27,90.0,4,3.0,1,53.2,73.6,79.2,0,20.6,Placed,4.82
+STU0402,Civil,Female,Nagpur,6.92,80.0,4,8.0,1,65.3,60.4,83.2,0,22.2,Placed,5.39
+STU0403,Mechanical,Male,Pune,7.83,74.9,1,3.0,1,49.8,55.9,62.4,0,6.8,Not Placed,
+STU0404,CSE,Male,Unknown,8.01,88.5,3,1.0,5,60.1,64.1,54.0,0,9.2,Not Placed,
+STU0405,Civil,Female,Pune,7.94,83.7,1,,0,64.1,46.8,62.2,1,9.7,Not Placed,
+STU0406,Mechanical,Female,Pune,7.27,67.8,4,0.0,2,61.7,56.6,66.4,2,21.9,Not Placed,
+STU0407,AI/ML,Male,Mumbai,6.44,78.7,5,3.0,2,61.4,43.9,59.0,0,8.2,Not Placed,
+STU0408,Mechanical,Female,Aurangabad,8.3,81.2,4,6.0,1,72.5,52.4,54.1,0,8.4,Placed,6.47
+STU0409,CSE,Male,Pune,7.61,76.9,4,0.0,2,60.6,67.6,73.5,2,7.3,Not Placed,
+STU0410,Civil,Male,Pune,8.53,96.8,7,0.0,1,85.2,78.9,55.9,2,30.5,Placed,5.79
+STU0411,ENTC,Female,Pune,8.43,86.8,1,1.0,0,60.8,70.4,47.3,1,13.1,Not Placed,
+STU0412,ENTC,Male,Other,6.11,95.7,4,1.0,0,56.8,56.2,54.2,1,17.2,Not Placed,
+STU0413,CSE,Male,Nashik,6.09,84.6,0,12.0,2,53.3,49.4,65.3,0,7.2,Not Placed,
+STU0414,Mechanical,Female,Pune,6.81,82.8,2,0.0,7,59.7,59.7,54.5,0,19.8,Not Placed,
+STU0415,CSE,Male,Pune,6.49,72.6,2,0.0,2,62.2,51.1,63.9,0,3.4,Not Placed,
+STU0416,CSE,Female,Nagpur,8.39,82.3,3,1.0,1,70.8,69.3,76.7,0,8.1,Placed,6.13
+STU0417,CSE,Female,Mumbai,7.97,82.1,4,0.0,1,72.1,50.1,76.3,1,9.6,Not Placed,
+STU0418,ENTC,Male,Nagpur,8.75,68.3,2,0.0,2,64.2,78.4,57.3,0,15.3,Placed,6.92
+STU0419,CSE,Prefer not to say,Mumbai,8.02,76.6,4,2.0,1,57.0,61.1,49.3,1,9.2,Not Placed,
+STU0420,Civil,Female,Other,7.82,78.8,1,1.0,3,46.4,71.8,59.8,0,23.1,Placed,4.57
+STU0421,ENTC,Female,Mumbai,8.86,86.1,4,0.0,1,55.4,83.2,77.9,2,17.0,Not Placed,
+STU0422,CSE,Male,Nashik,8.09,86.6,1,4.0,4,79.7,73.3,81.2,2,9.9,Not Placed,
+STU0423,CSE,Male,Pune,7.67,76.2,3,3.0,3,41.8,75.9,72.5,1,20.0,Placed,5.23
+STU0424,CSE,Female,Other,9.15,86.7,2,0.0,1,81.5,49.0,85.6,0,11.6,Placed,7.27
+STU0425,IT,Male,Unknown,7.72,80.2,3,8.0,2,55.9,61.1,92.2,1,10.5,Not Placed,
+STU0426,Mechanical,Male,Aurangabad,7.28,82.3,4,1.0,6,75.7,75.2,58.0,0,19.4,Placed,4.96
+STU0427,CSE,Female,Nagpur,6.72,77.2,6,12.0,0,42.9,68.6,88.5,0,0.0,Placed,4.55
+STU0428,Mechanical,Female,Pune,8.34,92.8,5,8.0,2,69.0,93.3,65.9,0,18.4,Placed,7.0
+STU0429,CSE,Female,Aurangabad,8.9,65.2,4,,2,86.8,90.7,80.5,0,9.7,Not Placed,
+STU0430,Mechanical,Male,Aurangabad,7.55,83.1,0,0.0,3,64.4,70.3,78.3,0,9.7,Not Placed,
+STU0431,Civil,Male,Pune,8.97,97.9,4,6.0,1,69.3,71.4,42.5,1,25.7,Placed,6.4
+STU0432,ENTC,Male,Mumbai,5.53,74.4,2,2.0,1,31.3,45.7,53.8,2,10.8,Not Placed,
+STU0433,ENTC,Male,Nagpur,7.54,82.3,4,0.0,2,52.0,60.8,51.1,0,19.7,Placed,5.51
+STU0434,Mechanical,Male,Other,7.56,69.0,1,3.0,2,73.2,60.1,41.7,1,15.7,Not Placed,
+STU0435,CSE,Prefer not to say,Nashik,6.84,98.3,4,3.0,2,58.1,58.4,82.5,0,16.3,Not Placed,
+STU0436,CSE,Male,Nashik,10.0,81.2,3,6.0,2,75.3,65.7,97.1,1,12.5,Placed,6.17
+STU0437,CSE,Male,Nashik,7.53,82.5,2,6.0,4,64.0,71.3,64.7,0,12.2,Not Placed,
+STU0438,IT,Male,Pune,7.17,95.5,6,8.0,2,54.3,86.9,81.8,1,23.2,Placed,5.77
+STU0439,ENTC,Female,Mumbai,7.63,88.6,2,6.0,4,65.7,78.9,89.8,1,19.6,Placed,7.06
+STU0440,ENTC,Male,Pune,5.5,73.2,4,4.0,3,50.4,53.0,70.1,1,11.0,Not Placed,
+STU0441,Mechanical,Male,Aurangabad,6.8,75.5,3,3.0,1,62.3,74.8,67.1,0,7.7,Not Placed,
+STU0442,CSE,Female,Mumbai,8.63,86.9,3,12.0,1,63.1,75.8,65.4,1,10.5,Not Placed,
+STU0443,ENTC,Male,Mumbai,6.94,75.8,1,12.0,3,40.4,62.8,75.0,2,19.9,Placed,4.93
+STU0444,CSE,Female,Pune,6.73,60.8,3,6.0,2,54.7,59.3,77.9,0,21.1,Not Placed,
+STU0445,AI/ML,Female,Pune,8.98,81.5,5,6.0,0,81.1,70.1,74.6,1,17.3,Not Placed,
+STU0446,ENTC,Male,Nagpur,9.01,67.2,3,3.0,2,74.8,78.7,72.4,0,4.3,Not Placed,
+STU0447,Civil,Female,Pune,8.14,98.2,3,0.0,1,66.6,72.6,69.5,1,18.5,Placed,5.99
+STU0448,IT,Male,Pune,7.12,83.8,4,8.0,1,72.0,56.2,46.2,2,21.8,Placed,5.31
+STU0449,CSE,Male,Aurangabad,7.35,72.9,3,0.0,3,60.2,55.3,79.7,0,15.0,Not Placed,
+STU0450,IT,Male,Mumbai,6.76,75.0,4,0.0,2,61.7,66.1,49.4,1,25.9,Placed,4.76
+STU0451,CSE,Female,Mumbai,6.56,63.1,1,2.0,1,49.3,65.3,74.6,1,6.1,Not Placed,
+STU0452,Mechanical,Female,Mumbai,6.5,82.3,1,4.0,2,63.4,57.1,77.5,3,18.1,Not Placed,
+STU0453,ENTC,Female,Aurangabad,6.95,92.2,2,3.0,3,61.1,51.7,53.5,1,7.9,Not Placed,
+STU0454,CSE,Female,Mumbai,6.51,100.0,5,0.0,1,56.3,79.4,61.9,1,20.4,Not Placed,
+STU0455,CSE,Male,Aurangabad,5.96,89.3,2,0.0,5,38.1,73.2,98.8,1,17.7,Not Placed,
+STU0456,CSE,Male,Other,7.83,81.1,3,0.0,1,75.8,43.8,67.0,0,24.8,Not Placed,
+STU0457,Civil,Female,Nashik,7.85,77.7,2,1.0,1,55.4,83.4,50.6,0,17.0,Not Placed,
+STU0458,IT,Male,Mumbai,9.39,72.4,1,0.0,2,69.5,70.6,78.3,2,11.6,Not Placed,
+STU0459,Mechanical,Male,Aurangabad,6.9,100.0,3,6.0,2,83.4,68.3,59.6,1,11.1,Not Placed,
+STU0460,ENTC,Female,Mumbai,7.91,80.1,0,0.0,4,67.1,81.5,41.1,0,12.5,Not Placed,
+STU0461,IT,Female,Unknown,7.93,100.0,1,1.0,2,77.3,90.1,77.7,0,10.9,Placed,4.98
+STU0462,CSE,Male,Nagpur,7.33,82.3,2,1.0,3,54.7,79.3,57.1,0,22.1,Placed,6.44
+STU0463,Civil,Male,Mumbai,8.38,64.6,4,3.0,1,80.3,70.8,70.6,1,21.7,Placed,5.52
+STU0464,AI/ML,Female,Pune,8.41,75.3,2,,1,66.0,52.9,56.1,3,5.0,Not Placed,
+STU0465,IT,Male,Mumbai,7.94,75.3,2,0.0,3,66.9,43.1,77.3,2,14.2,Not Placed,
+STU0466,ENTC,Male,Pune,7.33,81.2,4,1.0,3,84.3,76.1,70.7,1,14.4,Placed,5.23
+STU0467,ENTC,Male,Mumbai,7.22,81.4,2,6.0,2,56.8,81.2,31.9,2,9.3,Not Placed,
+STU0468,Civil,Female,Nagpur,6.16,100.0,1,0.0,4,52.2,53.1,75.7,2,16.6,Not Placed,
+STU0469,CSE,Female,Other,6.75,71.2,5,6.0,1,54.1,58.7,62.9,0,22.8,Not Placed,
+STU0470,IT,Male,Pune,6.95,84.3,4,12.0,0,71.0,57.6,88.4,2,19.4,Not Placed,
+STU0471,AI/ML,Female,Nashik,6.42,88.2,3,4.0,1,51.8,55.5,74.5,0,22.1,Placed,6.07
+STU0472,IT,Male,Mumbai,8.06,82.0,4,12.0,3,78.1,81.6,78.8,0,9.7,Placed,7.38
+STU0473,CSE,Male,Pune,8.86,83.1,5,2.0,2,57.6,74.8,58.4,2,14.2,Not Placed,
+STU0474,CSE,Female,Pune,6.65,71.6,2,2.0,3,62.1,58.8,55.9,0,9.4,Not Placed,
+STU0475,AI/ML,Male,Pune,7.9,82.3,1,0.0,1,54.6,100.0,68.0,2,15.4,Not Placed,
+STU0476,AI/ML,Male,Pune,6.51,87.1,3,0.0,2,65.2,45.6,63.8,1,16.0,Placed,4.34
+STU0477,AI/ML,Male,Pune,7.28,85.3,2,0.0,0,63.2,72.4,87.4,0,19.8,Not Placed,
+STU0478,IT,Male,Mumbai,6.88,87.7,1,3.0,3,50.4,51.8,66.8,0,21.9,Not Placed,
+STU0479,ENTC,Male,Nagpur,8.23,96.1,2,3.0,1,60.9,69.2,52.8,0,18.1,Not Placed,
+STU0480,AI/ML,Male,Pune,6.89,91.4,4,0.0,1,53.3,66.7,57.8,1,8.8,Not Placed,
+STU0481,AI/ML,Male,Pune,8.66,82.7,5,4.0,2,81.4,81.4,81.8,1,5.9,Placed,6.9
+STU0482,CSE,Male,Pune,7.34,70.3,2,0.0,4,49.7,61.1,64.5,0,17.1,Not Placed,
+STU0483,IT,Male,Nagpur,6.92,76.0,3,1.0,0,57.3,58.8,64.4,0,23.0,Not Placed,
+STU0484,AI/ML,Female,Mumbai,6.28,79.8,2,0.0,4,58.1,57.6,82.8,0,13.9,Not Placed,
+STU0485,CSE,Female,Nagpur,7.87,84.5,4,6.0,1,83.1,55.2,55.7,2,4.8,Not Placed,
+STU0486,AI/ML,Female,Pune,8.54,77.2,2,3.0,2,66.3,77.7,36.4,2,26.5,Not Placed,
+STU0487,IT,Male,Pune,7.89,72.6,3,6.0,6,62.6,70.2,55.2,1,16.9,Placed,6.03
+STU0488,CSE,Male,Other,9.95,70.1,10,0.0,1,92.5,80.4,70.2,0,15.0,Placed,9.21
+STU0489,IT,Male,Pune,9.1,65.5,6,2.0,3,56.6,70.2,62.8,0,7.0,Placed,6.83
+STU0490,IT,Male,Pune,7.28,79.7,1,12.0,5,45.9,62.8,46.1,1,14.1,Not Placed,
+STU0491,ENTC,Male,Pune,7.27,67.3,1,0.0,2,54.1,77.7,80.7,0,18.1,Placed,4.61
+STU0492,ENTC,Male,Other,8.09,72.0,5,2.0,3,62.9,79.9,69.3,1,17.0,Not Placed,
+STU0493,ENTC,Female,Nashik,6.72,82.3,0,,3,36.9,79.6,73.2,2,9.9,Not Placed,
+STU0494,AI/ML,Male,Nashik,8.82,68.6,9,0.0,1,90.4,74.7,72.5,4,13.7,Placed,6.09
+STU0495,Mechanical,Male,Other,7.98,85.8,0,3.0,2,62.1,85.0,50.5,0,10.3,Not Placed,
+STU0496,IT,Male,Pune,7.87,89.4,3,0.0,3,66.3,63.8,73.4,1,24.0,Not Placed,
+STU0497,AI/ML,Female,Unknown,8.32,76.5,2,3.0,4,58.3,66.7,80.3,0,19.4,Not Placed,
+STU0498,IT,Male,Pune,9.41,77.6,3,8.0,0,73.7,88.2,83.7,0,10.9,Placed,5.6
+STU0499,AI/ML,Male,Nashik,7.78,87.4,5,0.0,1,73.6,78.3,79.0,0,7.0,Placed,6.41
+STU0500,IT,Male,Mumbai,7.48,74.9,2,0.0,5,58.2,61.9,74.6,3,15.7,Not Placed,
+STU0501,ENTC,Male,Mumbai,9.18,74.2,3,6.0,4,76.2,59.9,43.0,1,11.0,Placed,6.32
+STU0502,Mechanical,Prefer not to say,Other,8.62,94.0,3,3.0,3,60.9,70.0,69.5,0,11.5,Placed,6.22
+STU0503,Civil,Female,Pune,7.26,90.8,5,8.0,2,66.7,58.2,55.9,1,7.2,Not Placed,
+STU0504,IT,Male,Other,7.61,88.0,7,1.0,2,83.0,88.2,86.9,1,7.9,Not Placed,
+STU0505,IT,Male,Mumbai,7.81,91.3,4,4.0,1,78.9,77.9,85.2,3,15.0,Placed,5.18
+STU0506,Mechanical,Prefer not to say,Nashik,7.98,62.2,4,8.0,1,80.8,56.8,52.6,0,12.4,Placed,6.76
+STU0507,AI/ML,Female,Other,6.18,95.5,3,0.0,3,59.0,49.9,69.2,1,29.0,Not Placed,
+STU0508,Mechanical,Male,Pune,5.98,85.9,4,6.0,0,57.4,51.1,72.2,0,17.6,Placed,4.88
+STU0509,IT,Male,Other,6.67,92.1,0,4.0,2,48.2,57.4,82.1,3,7.1,Not Placed,
+STU0510,CSE,Female,Nagpur,6.59,85.9,3,6.0,1,40.2,61.0,45.2,0,4.8,Not Placed,
+STU0511,CSE,Male,Nashik,6.92,82.5,1,0.0,1,42.5,77.3,37.4,1,16.4,Not Placed,
+STU0512,Mechanical,Male,Pune,8.27,79.2,4,2.0,3,67.3,57.6,68.4,0,11.6,Placed,5.89
+STU0513,CSE,Prefer not to say,Nagpur,7.42,85.7,1,0.0,4,57.5,93.9,33.2,0,22.0,Not Placed,
+STU0514,AI/ML,Male,Nashik,7.81,78.9,1,12.0,3,74.7,56.0,70.1,1,15.7,Not Placed,
+STU0515,AI/ML,Female,Mumbai,6.31,90.7,2,0.0,4,68.0,45.5,77.6,1,2.1,Placed,7.0
+STU0516,CSE,Male,Pune,7.12,66.1,2,0.0,3,52.2,83.1,83.6,0,7.9,Not Placed,
+STU0517,AI/ML,Female,Pune,8.22,76.6,3,8.0,1,74.9,84.6,58.9,4,9.9,Not Placed,
+STU0518,ENTC,Male,Other,8.22,100.0,3,1.0,1,62.0,69.3,72.7,0,16.7,Not Placed,
+STU0519,CSE,Male,Pune,6.84,75.7,4,4.0,0,68.4,67.4,76.6,0,7.7,Placed,5.64
+STU0520,Mechanical,Male,Nashik,7.77,79.6,3,1.0,2,72.5,72.1,51.5,0,14.9,Not Placed,
+STU0521,Mechanical,Female,Other,9.91,73.2,5,4.0,2,92.0,77.0,80.0,2,6.0,Placed,7.88
+STU0522,AI/ML,Female,Pune,7.58,85.4,4,0.0,1,60.5,51.5,72.5,0,14.0,Placed,4.64
+STU0523,CSE,Male,Pune,6.87,74.6,5,2.0,1,73.9,33.0,58.9,2,16.2,Not Placed,
+STU0524,IT,Male,Nashik,7.42,80.1,4,3.0,1,45.9,55.6,70.0,0,22.8,Not Placed,
+STU0525,CSE,Male,Pune,7.7,90.5,0,1.0,1,71.0,90.0,67.3,0,15.5,Not Placed,
+STU0526,AI/ML,Female,Nagpur,7.44,75.0,3,0.0,1,62.4,87.5,78.3,0,9.1,Not Placed,
+STU0527,Civil,Female,Nashik,7.57,89.9,3,0.0,0,63.2,64.4,64.1,0,23.0,Not Placed,
+STU0528,Civil,Male,Nagpur,6.08,90.2,2,6.0,2,33.2,49.9,72.4,0,12.9,Not Placed,
+STU0529,ENTC,Female,Mumbai,6.59,82.3,1,0.0,1,50.4,67.1,60.8,0,18.6,Placed,3.55
+STU0530,AI/ML,Male,Nashik,7.44,83.4,6,1.0,1,82.2,71.5,55.3,0,10.3,Not Placed,
+STU0531,ENTC,Male,Nagpur,7.43,100.0,2,1.0,2,56.4,75.4,72.8,0,14.5,Placed,4.0
+STU0532,ENTC,Female,Pune,7.01,92.5,2,2.0,3,65.6,35.2,56.9,0,9.2,Placed,6.04
+STU0533,AI/ML,Male,Nagpur,7.41,85.2,4,6.0,1,64.9,100.0,79.8,0,15.9,Not Placed,
+STU0534,ENTC,Female,Other,7.66,73.2,5,2.0,2,78.5,79.5,75.5,2,18.8,Not Placed,
+STU0535,CSE,Male,Nashik,8.53,81.0,5,8.0,0,74.3,68.2,57.4,0,11.0,Not Placed,
+STU0536,CSE,Male,Nagpur,7.5,96.3,2,4.0,2,51.7,59.4,72.9,1,10.7,Not Placed,
+STU0537,IT,Male,Mumbai,8.02,99.1,4,6.0,5,68.3,82.4,59.5,2,16.1,Placed,6.94
+STU0538,CSE,Female,Pune,7.03,96.8,4,6.0,3,78.6,72.1,47.6,0,9.0,Not Placed,
+STU0539,CSE,Male,Pune,8.2,89.9,4,0.0,4,73.6,71.3,60.8,0,4.9,Placed,4.76
+STU0540,Mechanical,Male,Pune,7.99,69.4,1,12.0,5,60.4,72.4,66.0,1,16.1,Not Placed,
+STU0541,Civil,Female,Other,8.51,86.9,3,6.0,4,90.8,69.8,76.1,1,13.4,Placed,6.93
+STU0542,IT,Female,Pune,8.35,69.6,2,3.0,4,77.0,73.2,68.8,1,13.2,Not Placed,
+STU0543,Mechanical,Female,Unknown,8.22,67.1,6,0.0,3,80.9,76.3,79.2,0,17.1,Not Placed,
+STU0544,Civil,Male,Pune,7.5,84.4,2,0.0,1,64.2,70.7,54.8,2,18.0,Not Placed,
+STU0545,CSE,Male,Mumbai,7.86,87.2,4,4.0,2,63.2,72.0,63.6,2,13.0,Not Placed,
+STU0546,AI/ML,Male,Unknown,8.72,91.0,2,2.0,3,75.0,89.3,92.3,1,7.3,Not Placed,
+STU0547,AI/ML,Male,Mumbai,6.92,87.0,4,4.0,2,40.2,45.3,41.8,2,10.2,Not Placed,
+STU0548,CSE,Male,Aurangabad,6.94,87.3,4,2.0,4,66.0,55.0,62.5,0,17.5,Not Placed,
+STU0549,ENTC,Male,Other,7.79,72.2,4,3.0,3,63.2,66.7,52.1,0,14.8,Placed,4.89
+STU0550,AI/ML,Male,Other,8.04,81.0,5,0.0,4,64.8,59.7,65.4,1,10.7,Not Placed,
+STU0551,IT,Male,Pune,6.73,66.9,1,0.0,3,53.0,56.5,60.3,0,9.3,Not Placed,
+STU0552,CSE,Female,Aurangabad,7.52,62.0,1,0.0,1,43.5,79.5,74.3,0,17.7,Not Placed,
+STU0553,CSE,Male,Pune,7.5,89.4,4,6.0,2,47.0,65.4,72.7,1,12.7,Not Placed,
+STU0554,Civil,Male,Other,5.27,74.5,4,3.0,2,65.9,34.1,49.1,1,18.5,Placed,3.04
+STU0555,CSE,Female,Nagpur,7.37,90.7,3,12.0,0,66.9,61.8,61.0,0,19.3,Placed,5.85
+STU0556,CSE,Male,Mumbai,7.43,93.1,4,6.0,1,40.5,68.1,69.6,0,12.1,Placed,3.45
+STU0557,AI/ML,Female,Pune,7.43,75.8,4,6.0,3,58.9,65.8,77.8,0,19.7,Not Placed,
+STU0558,IT,Prefer not to say,Pune,9.09,87.9,4,3.0,2,82.1,80.4,100.0,0,14.8,Placed,6.68
+STU0559,IT,Male,Pune,6.32,75.4,4,6.0,0,56.1,66.3,77.3,1,15.6,Placed,5.78
+STU0560,IT,Male,Other,6.73,63.5,3,12.0,3,71.4,59.2,51.8,0,0.9,Not Placed,
+STU0561,CSE,Female,Aurangabad,4.86,83.2,4,6.0,5,61.8,41.1,67.1,2,8.2,Not Placed,
+STU0562,CSE,Female,Other,7.1,77.3,4,0.0,5,49.4,58.8,70.2,0,8.5,Placed,3.03
+STU0563,Mechanical,Female,Pune,7.18,77.6,3,4.0,1,59.9,57.0,60.4,0,12.1,Placed,4.21
+STU0564,ENTC,Female,Nagpur,7.06,100.0,2,0.0,3,54.2,63.2,69.0,0,14.7,Not Placed,
+STU0565,ENTC,Female,Pune,8.76,66.7,5,0.0,0,59.7,78.1,34.6,2,14.9,Placed,6.32
+STU0566,ENTC,Female,Nagpur,8.5,85.8,0,,1,47.7,75.8,76.4,2,15.7,Placed,5.34
+STU0567,ENTC,Prefer not to say,Mumbai,7.68,72.1,2,6.0,5,53.9,75.8,60.4,1,9.9,Not Placed,
+STU0568,CSE,Female,Mumbai,7.21,91.1,4,0.0,2,57.1,61.6,67.8,2,18.1,Not Placed,
+STU0569,AI/ML,Female,Nagpur,8.68,85.0,1,0.0,4,68.0,89.8,89.1,1,24.9,Placed,5.43
+STU0570,IT,Male,Pune,7.58,85.8,6,8.0,3,79.9,75.2,51.0,1,11.9,Placed,6.39
+STU0571,AI/ML,Male,Nagpur,6.74,72.6,2,0.0,2,62.2,63.4,70.9,0,10.0,Not Placed,
+STU0572,Mechanical,Male,Nashik,5.8,74.3,4,0.0,1,63.7,65.5,78.4,1,9.9,Not Placed,
+STU0573,IT,Male,Pune,7.14,91.3,2,6.0,3,56.5,57.8,71.7,2,14.5,Not Placed,
+STU0574,ENTC,Male,Other,8.39,99.7,5,6.0,4,63.2,46.9,47.8,0,10.8,Placed,7.57
+STU0575,Mechanical,Male,Nagpur,9.99,86.8,1,3.0,1,70.5,70.1,87.7,0,3.6,Placed,8.48
+STU0576,IT,Male,Aurangabad,7.66,73.0,1,3.0,2,55.4,74.9,64.2,0,5.3,Not Placed,
+STU0577,Civil,Male,Nashik,6.8,85.4,5,1.0,5,82.3,64.8,61.3,0,20.1,Not Placed,
+STU0578,IT,Male,Nashik,6.36,100.0,2,0.0,1,31.8,62.1,66.1,0,21.7,Not Placed,
+STU0579,Mechanical,Female,Nashik,8.18,83.0,3,6.0,2,47.8,59.1,63.0,2,23.6,Not Placed,
+STU0580,AI/ML,Male,Other,5.75,96.6,3,6.0,2,57.7,37.3,53.3,1,15.4,Not Placed,
+STU0581,IT,Female,Nashik,8.18,74.6,1,1.0,2,59.9,85.4,69.7,1,8.1,Not Placed,
+STU0582,IT,Male,Pune,8.46,81.6,2,0.0,3,51.6,67.8,59.8,1,11.4,Not Placed,
+STU0583,CSE,Female,Pune,8.06,88.2,5,0.0,4,59.4,64.3,69.0,0,5.1,Not Placed,
+STU0584,AI/ML,Female,Nashik,7.37,86.0,3,0.0,2,53.1,58.2,76.0,0,4.8,Not Placed,
+STU0585,Civil,Female,Pune,8.19,74.3,2,1.0,2,73.5,83.4,90.1,3,15.5,Not Placed,
+STU0586,ENTC,Male,Pune,7.78,73.9,5,0.0,3,80.6,77.1,64.3,1,17.2,Placed,6.22
+STU0587,CSE,Female,Pune,6.78,91.9,2,6.0,3,73.7,52.9,58.2,1,25.8,Not Placed,
+STU0588,AI/ML,Male,Nagpur,9.54,93.9,6,0.0,2,63.7,90.3,49.1,1,13.5,Placed,5.07
+STU0589,CSE,Male,Pune,7.23,97.1,6,6.0,1,53.9,65.3,100.0,0,5.9,Placed,5.72
+STU0590,CSE,Female,Nashik,8.41,100.0,4,3.0,2,55.4,65.0,79.7,0,13.3,Placed,4.78
+STU0591,Civil,Male,Aurangabad,5.06,83.3,4,6.0,4,65.2,52.7,58.7,2,12.3,Not Placed,
+STU0592,AI/ML,Female,Other,8.94,78.9,1,12.0,4,70.7,62.6,91.6,2,11.1,Not Placed,
+STU0593,AI/ML,Female,Mumbai,9.14,95.5,6,2.0,4,78.3,59.0,88.8,1,16.1,Placed,5.31
+STU0594,IT,Male,Nagpur,7.63,89.1,2,0.0,3,64.0,77.1,50.2,2,6.7,Not Placed,
+STU0595,CSE,Male,Nagpur,8.19,72.2,0,6.0,5,60.0,65.4,56.5,0,14.8,Placed,6.87
+STU0596,AI/ML,Female,Nagpur,8.19,71.7,7,0.0,2,63.4,75.4,65.2,0,17.9,Not Placed,
+STU0597,ENTC,Male,Nashik,6.93,86.9,3,0.0,2,65.2,68.0,53.8,0,22.5,Not Placed,
+STU0598,ENTC,Female,Pune,8.17,82.3,1,0.0,8,60.6,75.5,66.7,2,15.9,Not Placed,
+STU0599,Civil,Male,Other,6.75,81.7,2,8.0,2,45.1,38.6,78.2,0,20.3,Not Placed,
+STU0600,IT,Male,Pune,6.96,92.7,3,0.0,3,65.9,55.0,50.3,1,11.3,Not Placed,
+STU0601,IT,Male,Other,8.78,89.6,2,3.0,4,63.4,79.5,73.3,0,12.2,Placed,6.22
+STU0602,ENTC,Male,Unknown,8.62,95.3,9,2.0,3,83.1,57.3,86.2,1,22.1,Placed,4.92
+STU0603,Civil,Female,Pune,6.86,62.7,3,4.0,1,58.4,65.8,69.0,0,5.8,Not Placed,
+STU0604,ENTC,Male,Aurangabad,6.83,84.5,3,1.0,5,68.4,47.1,67.5,0,11.6,Not Placed,
+STU0605,Civil,Male,Pune,6.92,88.9,3,8.0,4,62.2,64.9,59.7,0,20.8,Placed,4.54
+STU0606,Mechanical,Male,Aurangabad,8.37,82.3,2,6.0,0,56.7,87.5,78.0,4,12.7,Not Placed,
+STU0607,Mechanical,Female,Nagpur,6.55,75.5,5,2.0,4,65.3,70.9,51.0,0,12.3,Not Placed,
+STU0608,CSE,Male,Pune,7.97,73.6,2,1.0,2,67.0,45.1,70.6,1,12.4,Not Placed,
+STU0609,ENTC,Male,Pune,8.38,82.2,4,6.0,1,74.7,80.2,68.6,1,14.7,Not Placed,
+STU0610,AI/ML,Female,Aurangabad,7.51,98.3,3,6.0,2,73.4,90.2,86.0,1,20.5,Placed,5.98
+STU0611,IT,Female,Mumbai,8.66,100.0,0,2.0,3,56.9,100.0,62.2,2,19.5,Placed,4.08
+STU0612,ENTC,Male,Other,7.28,82.3,0,1.0,0,62.5,70.1,60.3,0,14.1,Not Placed,
+STU0613,Civil,Male,Aurangabad,7.38,87.3,4,0.0,9,47.1,50.1,51.5,1,20.6,Not Placed,
+STU0614,Civil,Female,Nashik,6.57,87.6,4,0.0,2,59.0,68.3,75.0,0,16.1,Not Placed,
+STU0615,AI/ML,Male,Pune,8.67,85.9,6,0.0,3,72.3,90.9,62.8,1,19.2,Placed,5.27
+STU0616,ENTC,Male,Nashik,6.8,86.0,2,0.0,3,71.8,61.6,56.7,0,7.8,Not Placed,
+STU0617,ENTC,Male,Other,7.97,85.0,3,0.0,4,63.9,81.2,57.9,1,24.4,Not Placed,
+STU0618,AI/ML,Male,Pune,7.53,98.9,6,6.0,2,75.2,58.4,77.8,1,15.3,Placed,5.8
+STU0619,CSE,Male,Mumbai,6.49,93.0,3,6.0,4,40.1,67.9,54.1,1,0.0,Not Placed,
+STU0620,CSE,Male,Pune,6.96,71.4,2,6.0,3,54.7,32.9,52.8,0,24.0,Not Placed,
+STU0621,ENTC,Male,Mumbai,9.05,90.0,1,4.0,5,58.6,62.4,81.7,2,14.0,Placed,5.54
+STU0622,IT,Male,Aurangabad,7.81,90.9,0,4.0,0,83.4,68.6,67.0,0,11.6,Not Placed,
+STU0623,Civil,Male,Nagpur,6.54,85.1,4,0.0,4,53.3,58.3,82.0,0,10.4,Placed,3.77
+STU0624,IT,Male,Nagpur,7.92,93.3,7,6.0,0,73.9,53.9,64.6,4,16.6,Not Placed,
+STU0625,Civil,Male,Mumbai,7.45,83.9,3,1.0,2,64.0,60.4,68.5,1,8.7,Not Placed,
+STU0626,AI/ML,Female,Pune,10.0,84.0,4,3.0,0,62.1,81.0,70.7,2,10.5,Placed,6.67
+STU0627,Mechanical,Male,Pune,7.9,83.2,4,12.0,1,61.8,67.1,87.8,3,10.7,Placed,5.83
+STU0628,CSE,Male,Other,7.2,61.8,7,8.0,3,73.5,63.4,84.1,0,12.2,Placed,6.91
+STU0629,IT,Male,Nashik,9.09,81.2,2,0.0,6,70.1,81.7,84.3,2,10.9,Placed,5.8
+STU0630,Mechanical,Male,Mumbai,5.67,75.3,3,6.0,2,30.5,53.7,58.6,1,19.1,Not Placed,
+STU0631,Civil,Male,Aurangabad,7.7,70.1,2,0.0,1,56.4,82.1,53.0,2,15.6,Not Placed,
+STU0632,Mechanical,Male,Pune,9.69,96.3,4,0.0,3,86.6,65.4,80.6,0,16.4,Placed,7.42
+STU0633,CSE,Male,Pune,7.48,87.0,2,0.0,2,66.8,90.0,88.1,0,17.7,Placed,4.83
+STU0634,AI/ML,Female,Pune,5.78,81.7,5,0.0,1,70.2,72.4,84.5,1,13.4,Not Placed,
+STU0635,CSE,Female,Other,7.18,76.4,1,6.0,0,63.2,60.1,67.8,0,7.9,Not Placed,
+STU0636,CSE,Female,Nashik,9.13,85.0,4,2.0,1,86.3,70.1,78.8,1,24.8,Placed,6.42
+STU0637,ENTC,Female,Nashik,7.99,91.9,1,0.0,4,61.1,72.1,79.9,0,19.6,Not Placed,
+STU0638,ENTC,Male,Pune,6.72,73.7,3,12.0,2,74.9,69.3,69.3,0,23.7,Placed,6.65
+STU0639,ENTC,Male,Unknown,6.88,82.0,2,3.0,2,57.8,76.9,70.9,1,20.2,Not Placed,
+STU0640,Mechanical,Male,Nashik,7.01,90.7,5,2.0,4,44.0,49.2,70.7,1,11.2,Not Placed,
+STU0641,ENTC,Female,Mumbai,7.98,62.6,2,3.0,2,72.0,71.3,54.9,2,0.0,Not Placed,
+STU0642,Mechanical,Male,Other,9.01,81.4,4,3.0,4,68.4,47.2,58.6,1,6.6,Placed,7.27
+STU0643,CSE,Female,Aurangabad,8.71,77.7,1,3.0,1,61.5,68.8,57.9,0,17.8,Not Placed,
+STU0644,CSE,Male,Mumbai,8.08,80.7,2,4.0,1,49.5,86.1,45.7,1,13.4,Placed,5.29
+STU0645,IT,Female,Aurangabad,6.2,77.0,3,8.0,2,72.5,43.3,69.6,0,11.5,Placed,6.05
+STU0646,Mechanical,Male,Other,6.21,83.4,2,1.0,2,49.1,41.9,67.8,1,0.0,Not Placed,
+STU0647,CSE,Female,Nagpur,8.16,100.0,2,3.0,4,80.2,73.9,81.1,0,13.9,Placed,7.11
+STU0648,IT,Male,Unknown,6.19,78.8,4,0.0,5,53.9,77.1,85.5,0,7.5,Not Placed,
+STU0649,ENTC,Male,Other,7.36,84.9,3,6.0,3,53.0,70.0,87.1,1,9.7,Placed,6.02
+STU0650,CSE,Male,Pune,7.92,100.0,1,1.0,2,74.4,47.4,90.3,0,19.1,Placed,5.62
+STU0651,AI/ML,Female,Other,6.41,76.5,3,0.0,4,56.6,40.9,57.0,2,7.8,Not Placed,
+STU0652,Mechanical,Male,Pune,6.52,100.0,3,12.0,4,57.3,65.6,50.4,1,8.4,Not Placed,
+STU0653,ENTC,Male,Nashik,7.5,82.1,5,4.0,1,54.2,52.2,81.3,1,15.1,Not Placed,
+STU0654,CSE,Male,Aurangabad,8.13,99.8,3,0.0,6,61.7,72.8,89.7,0,19.2,Not Placed,
+STU0655,Mechanical,Male,Nashik,8.71,89.5,5,0.0,3,77.6,74.7,90.9,1,11.6,Placed,7.56
+STU0656,AI/ML,Prefer not to say,Nagpur,8.24,85.1,4,1.0,3,55.9,63.9,75.4,0,22.8,Placed,5.43
+STU0657,Mechanical,Female,Nashik,7.68,81.3,2,12.0,3,56.5,88.8,40.2,0,6.3,Placed,5.5
+STU0658,AI/ML,Female,Pune,6.82,75.8,3,2.0,2,55.3,69.8,72.6,0,5.3,Placed,3.95
+STU0659,IT,Female,Pune,6.48,82.8,0,0.0,3,52.4,76.7,76.1,1,4.8,Not Placed,
+STU0660,AI/ML,Female,Pune,7.06,91.0,3,3.0,3,75.5,76.6,86.8,1,4.1,Not Placed,
+STU0661,AI/ML,Male,Nagpur,8.03,81.9,1,2.0,2,63.2,66.8,88.2,2,16.0,Not Placed,
+STU0662,Mechanical,Prefer not to say,Mumbai,7.95,78.8,2,0.0,3,56.4,65.5,80.6,0,8.1,Not Placed,
+STU0663,CSE,Prefer not to say,Pune,5.4,79.5,3,8.0,5,79.5,53.6,59.7,2,5.5,Not Placed,
+STU0664,CSE,Male,Other,6.78,91.9,0,0.0,3,48.9,72.7,55.0,0,16.3,Not Placed,
+STU0665,AI/ML,Male,Mumbai,8.86,94.3,0,8.0,4,62.2,65.7,77.2,3,18.9,Not Placed,
+STU0666,ENTC,Male,Unknown,7.68,75.3,2,6.0,2,58.4,87.0,56.3,1,20.3,Placed,7.87
+STU0667,Mechanical,Male,Mumbai,6.11,75.3,2,0.0,2,51.0,50.7,88.1,0,19.3,Not Placed,
+STU0668,Civil,Female,Pune,10.0,85.8,0,6.0,0,70.8,79.9,44.8,2,8.5,Placed,6.89
+STU0669,AI/ML,Male,Aurangabad,7.57,97.3,1,6.0,1,68.6,65.7,78.0,1,15.7,Placed,5.4
+STU0670,AI/ML,Male,Mumbai,8.0,93.5,1,4.0,4,65.6,64.4,74.1,1,17.0,Not Placed,
+STU0671,CSE,Female,Unknown,8.02,69.5,7,3.0,3,84.5,93.1,63.8,0,11.2,Placed,6.13
+STU0672,IT,Male,Other,7.21,79.4,1,0.0,2,67.9,59.5,55.0,0,15.0,Not Placed,
+STU0673,Civil,Prefer not to say,Aurangabad,6.84,72.7,2,0.0,2,59.7,58.8,38.3,1,6.5,Not Placed,
+STU0674,ENTC,Prefer not to say,Aurangabad,9.83,79.3,4,6.0,3,80.9,67.8,60.5,1,10.2,Placed,7.29
+STU0675,IT,Male,Other,8.65,98.0,2,0.0,1,78.1,73.6,63.0,2,16.2,Placed,6.53
+STU0676,AI/ML,Male,Other,8.46,67.8,3,0.0,3,56.9,67.5,82.1,0,23.0,Not Placed,
+STU0677,Civil,Female,Mumbai,8.21,65.8,6,3.0,0,97.7,53.9,55.3,1,20.9,Placed,6.83
+STU0678,IT,Female,Nashik,6.55,73.7,3,0.0,0,52.9,56.3,73.6,0,18.0,Not Placed,
+STU0679,CSE,Male,Nashik,8.94,84.9,1,6.0,2,63.0,80.1,50.5,0,14.5,Placed,5.17
+STU0680,AI/ML,Male,Pune,6.71,88.2,2,6.0,3,44.8,76.1,75.7,0,13.5,Not Placed,
+STU0681,CSE,Male,Pune,7.9,86.4,1,6.0,2,49.3,68.8,37.4,3,5.3,Not Placed,
+STU0682,CSE,Male,Pune,5.88,93.8,5,0.0,1,68.3,61.7,99.0,4,9.0,Not Placed,
+STU0683,CSE,Male,Nashik,5.46,64.4,1,2.0,2,71.1,51.3,64.2,1,9.2,Not Placed,
+STU0684,IT,Male,Aurangabad,7.93,82.3,5,6.0,3,63.6,63.5,30.5,2,17.4,Placed,7.44
+STU0685,ENTC,Female,Aurangabad,6.75,78.9,4,2.0,2,64.6,51.8,57.8,0,19.7,Not Placed,
+STU0686,AI/ML,Female,Mumbai,5.51,89.3,3,,5,54.9,40.2,56.9,3,18.4,Not Placed,
+STU0687,AI/ML,Female,Pune,8.17,68.8,6,4.0,7,82.5,59.1,57.5,3,21.1,Not Placed,
+STU0688,Civil,Female,Mumbai,9.83,82.0,5,1.0,3,100.0,87.0,63.1,0,14.4,Placed,7.03
+STU0689,ENTC,Male,Nagpur,9.06,84.4,2,0.0,3,84.3,68.1,59.3,1,8.1,Placed,8.23
+STU0690,IT,Male,Other,7.33,93.6,1,4.0,1,55.7,62.9,58.2,0,13.7,Not Placed,
+STU0691,AI/ML,Female,Other,7.61,66.1,2,0.0,3,66.9,60.5,69.0,0,9.7,Not Placed,
+STU0692,Mechanical,Male,Other,8.53,82.3,10,8.0,4,88.6,85.6,79.8,2,17.9,Placed,6.46
+STU0693,CSE,Male,Other,8.78,71.1,7,3.0,1,77.5,59.3,83.7,1,11.8,Placed,5.48
+STU0694,AI/ML,Female,Other,7.24,87.1,3,0.0,4,50.7,69.2,65.3,0,13.4,Not Placed,
+STU0695,Civil,Female,Nagpur,7.64,89.8,2,6.0,4,53.7,67.0,68.9,0,18.2,Placed,5.25
+STU0696,IT,Female,Pune,7.92,94.9,1,2.0,1,72.7,70.5,54.0,0,9.6,Not Placed,
+STU0697,ENTC,Male,Pune,8.18,76.6,4,0.0,2,81.0,71.5,68.6,0,19.8,Placed,4.68
+STU0698,IT,Female,Mumbai,7.46,91.3,1,12.0,1,56.7,68.0,72.6,2,5.9,Not Placed,
+STU0699,ENTC,Female,Pune,7.47,95.6,7,6.0,4,73.5,77.4,66.8,2,15.8,Placed,7.55
+STU0700,AI/ML,Female,Pune,9.05,65.6,1,4.0,3,79.0,70.5,71.8,0,13.5,Placed,6.05
+STU0701,CSE,Male,Other,8.87,88.1,5,6.0,2,57.1,93.8,73.3,0,19.0,Placed,7.02
+STU0702,AI/ML,Female,Pune,8.1,91.6,1,3.0,2,63.2,70.5,54.6,1,5.8,Placed,2.41
+STU0703,CSE,Male,Other,9.41,82.3,3,2.0,1,93.1,53.6,84.6,1,4.8,Placed,6.51
+STU0704,Mechanical,Female,Aurangabad,7.19,82.3,1,0.0,0,60.4,71.2,63.9,1,18.5,Not Placed,
+STU0705,AI/ML,Male,Nashik,9.3,91.4,5,0.0,0,65.1,79.7,92.8,0,11.7,Placed,7.08
+STU0706,IT,Male,Nashik,8.17,70.0,1,2.0,1,63.7,68.1,72.7,0,13.5,Placed,6.44
+STU0707,Mechanical,Male,Mumbai,10.0,80.2,3,2.0,3,86.2,73.5,95.6,2,10.0,Placed,6.33
+STU0708,Mechanical,Female,Nashik,6.35,81.6,4,6.0,2,33.6,36.1,84.6,1,19.5,Not Placed,
+STU0709,AI/ML,Male,Pune,6.88,89.2,2,2.0,2,59.5,41.2,72.3,0,15.8,Not Placed,
+STU0710,IT,Male,Other,8.04,75.7,2,4.0,3,60.1,87.6,57.4,0,15.4,Not Placed,
+STU0711,Civil,Female,Mumbai,8.02,75.2,4,6.0,2,63.2,60.7,57.6,0,7.0,Not Placed,
+STU0712,ENTC,Female,Pune,9.65,83.0,1,12.0,2,71.0,87.1,75.8,0,17.0,Placed,5.78
+STU0713,Mechanical,Male,Nashik,6.9,92.1,2,1.0,2,56.5,45.8,71.5,0,8.0,Not Placed,
+STU0714,Civil,Male,Nashik,8.55,100.0,3,8.0,1,63.2,60.3,62.2,1,10.0,Placed,7.38
+STU0715,Mechanical,Female,Mumbai,8.82,66.9,4,6.0,4,68.4,78.2,78.1,0,5.8,Placed,8.47
+STU0716,CSE,Female,Nashik,8.34,85.2,2,0.0,6,55.2,69.0,69.2,0,13.1,Not Placed,
+STU0717,IT,Male,Pune,6.59,71.1,3,1.0,1,43.7,67.7,78.7,0,20.4,Not Placed,
+STU0718,CSE,Male,Nashik,9.08,92.2,4,0.0,3,66.3,74.0,55.8,0,15.4,Not Placed,
+STU0719,ENTC,Male,Pune,8.89,72.6,1,4.0,3,74.8,68.6,81.1,0,11.3,Not Placed,
+STU0720,Civil,Male,Pune,8.23,75.3,5,3.0,0,73.1,60.4,74.4,0,14.7,Placed,5.02
+STU0721,IT,Male,Pune,7.81,76.1,3,3.0,3,63.9,52.6,84.3,1,14.6,Placed,5.5
+STU0722,AI/ML,Female,Mumbai,7.84,81.2,4,6.0,0,56.4,84.5,81.8,0,14.4,Not Placed,
+STU0723,CSE,Male,Mumbai,7.52,85.2,3,1.0,4,59.4,85.6,67.4,0,15.1,Not Placed,
+STU0724,Civil,Female,Mumbai,8.27,86.8,2,2.0,2,72.4,57.7,66.5,0,7.8,Not Placed,
+STU0725,CSE,Female,Pune,7.63,81.9,1,8.0,2,64.7,53.6,93.2,1,14.6,Placed,4.71
+STU0726,CSE,Female,Pune,6.71,68.7,3,12.0,5,54.1,57.3,62.6,3,3.5,Not Placed,
+STU0727,CSE,Female,Nagpur,6.5,89.3,4,6.0,3,33.7,67.1,79.6,0,17.5,Not Placed,
+STU0728,CSE,Male,Pune,6.81,81.5,2,0.0,0,50.7,61.2,62.8,0,7.4,Not Placed,
+STU0729,IT,Female,Nashik,7.83,93.6,3,0.0,0,59.9,75.1,43.6,1,21.1,Placed,5.42
+STU0730,IT,Male,Other,7.57,74.9,2,0.0,1,52.3,65.2,50.2,1,0.0,Not Placed,
+STU0731,AI/ML,Male,Mumbai,7.83,66.0,5,2.0,4,64.6,64.4,72.0,0,24.0,Placed,7.74
+STU0732,CSE,Male,Other,8.13,81.7,1,0.0,4,70.4,97.9,69.0,0,4.2,Not Placed,
+STU0733,CSE,Male,Unknown,6.94,95.0,1,8.0,1,55.7,59.2,75.5,0,6.8,Not Placed,
+STU0734,AI/ML,Male,Pune,9.14,83.6,0,4.0,1,75.4,93.1,84.5,1,15.8,Placed,6.09
+STU0735,CSE,Male,Aurangabad,7.32,80.0,7,2.0,5,55.0,82.7,73.5,0,17.7,Not Placed,
+STU0736,ENTC,Female,Aurangabad,7.14,73.3,3,0.0,2,58.1,69.8,69.0,0,12.3,Not Placed,
+STU0737,CSE,Male,Other,8.11,99.6,3,2.0,2,46.8,47.9,78.7,1,19.4,Not Placed,
+STU0738,AI/ML,Male,Pune,5.67,71.7,6,3.0,1,55.2,57.8,69.4,2,9.2,Not Placed,
+STU0739,AI/ML,Female,Aurangabad,6.77,74.7,3,6.0,1,48.7,56.2,59.3,1,11.6,Not Placed,
+STU0740,AI/ML,Female,Mumbai,8.63,87.7,0,0.0,3,75.7,72.0,75.5,0,12.2,Placed,6.96
+STU0741,CSE,Female,Mumbai,5.78,63.4,2,6.0,3,56.2,44.1,67.1,2,10.8,Not Placed,
+STU0742,CSE,Male,Pune,8.77,94.7,1,0.0,2,75.8,82.3,61.3,0,2.4,Not Placed,
+STU0743,Mechanical,Male,Other,9.19,88.2,6,0.0,1,73.5,86.0,66.5,1,13.9,Placed,6.73
+STU0744,CSE,Female,Pune,7.21,82.3,6,12.0,3,57.3,80.2,89.1,0,13.3,Not Placed,
+STU0745,IT,Male,Other,7.91,87.6,4,0.0,3,56.6,64.1,88.2,2,20.5,Not Placed,
+STU0746,IT,Male,Nashik,8.78,80.4,1,0.0,1,68.3,58.8,70.7,1,6.3,Not Placed,
+STU0747,AI/ML,Female,Aurangabad,7.11,71.4,4,4.0,2,81.1,67.7,67.8,1,10.2,Placed,6.53
+STU0748,AI/ML,Male,Nashik,8.51,80.6,3,2.0,0,72.4,91.5,48.0,1,21.2,Not Placed,
+STU0749,Mechanical,Female,Other,6.9,72.2,1,0.0,1,52.1,63.5,91.1,0,15.8,Placed,5.44
+STU0750,Mechanical,Male,Pune,7.1,86.9,3,0.0,4,59.0,70.7,83.3,1,17.3,Not Placed,
+STU0751,AI/ML,Male,Pune,6.76,90.1,3,0.0,4,58.8,61.4,79.7,0,16.7,Placed,4.65
+STU0752,AI/ML,Female,Nagpur,7.96,96.8,2,3.0,2,83.7,64.0,38.2,0,16.7,Placed,6.03
+STU0753,CSE,Male,Mumbai,8.82,85.7,5,0.0,2,86.2,80.2,69.3,1,24.9,Not Placed,
+STU0754,IT,Prefer not to say,Pune,7.41,91.2,5,6.0,5,69.1,65.8,67.6,1,14.5,Placed,4.97
+STU0755,ENTC,Male,Pune,6.27,79.0,4,6.0,3,59.7,65.7,77.4,2,7.9,Not Placed,
+STU0756,CSE,Prefer not to say,Mumbai,6.46,77.2,2,0.0,0,58.6,67.5,61.3,1,17.8,Not Placed,
+STU0757,AI/ML,Male,Pune,8.01,86.7,4,1.0,6,72.6,73.2,65.6,0,10.6,Not Placed,
+STU0758,Civil,Female,Unknown,9.54,78.1,0,0.0,7,63.5,81.1,76.4,4,13.3,Not Placed,
+STU0759,CSE,Male,Other,8.01,84.7,3,,1,57.2,58.6,57.7,1,16.2,Not Placed,
+STU0760,IT,Male,Mumbai,7.19,71.4,1,0.0,0,67.7,52.8,58.9,2,9.1,Not Placed,
+STU0761,ENTC,Male,Other,8.4,73.2,1,6.0,2,63.9,68.6,69.9,1,10.9,Not Placed,
+STU0762,CSE,Male,Other,7.35,88.4,5,1.0,3,75.7,66.3,87.7,3,16.9,Placed,5.9
+STU0763,CSE,Male,Pune,7.2,90.9,1,3.0,3,73.9,59.9,80.6,0,10.7,Placed,3.27
+STU0764,CSE,Female,Nashik,6.59,72.1,5,4.0,1,67.5,64.2,82.1,1,19.8,Not Placed,
+STU0765,Civil,Male,Nashik,9.08,88.7,5,6.0,3,78.8,84.7,69.9,0,8.1,Placed,6.95
+STU0766,CSE,Female,Nashik,4.93,76.7,5,1.0,7,85.6,69.2,69.0,4,8.1,Not Placed,
+STU0767,CSE,Male,Pune,8.44,82.2,3,0.0,0,70.0,87.3,43.9,0,25.4,Placed,5.36
+STU0768,CSE,Male,Unknown,7.11,96.2,7,12.0,2,58.1,50.6,98.3,1,4.8,Placed,7.12
+STU0769,CSE,Male,Pune,7.17,90.1,3,1.0,0,58.5,52.0,99.3,0,13.8,Not Placed,
+STU0770,IT,Male,Nashik,9.38,90.0,2,4.0,0,86.3,71.7,75.6,0,25.1,Placed,7.29
+STU0771,CSE,Female,Other,6.85,100.0,2,4.0,1,44.7,66.7,82.1,1,13.8,Placed,4.94
+STU0772,IT,Male,Nashik,6.89,75.0,4,3.0,4,54.3,60.1,66.9,0,22.1,Placed,4.12
+STU0773,IT,Male,Nashik,7.46,72.1,4,0.0,2,75.9,58.4,64.1,1,17.9,Not Placed,
+STU0774,Mechanical,Female,Other,8.03,74.8,3,0.0,6,63.0,64.0,58.8,1,14.0,Not Placed,
+STU0775,CSE,Female,Nashik,7.14,79.5,1,3.0,1,56.0,70.3,67.3,1,13.2,Not Placed,
+STU0776,Mechanical,Female,Pune,5.95,58.5,5,3.0,3,69.7,41.1,73.2,0,1.3,Not Placed,
+STU0777,IT,Male,Other,6.69,79.9,1,6.0,2,47.6,90.8,69.0,0,12.1,Placed,5.81
+STU0778,CSE,Male,Mumbai,8.95,76.6,4,6.0,1,57.9,72.0,95.4,1,15.4,Placed,4.76
+STU0779,ENTC,Male,Pune,7.68,89.8,3,8.0,0,50.0,80.6,69.0,0,15.4,Not Placed,
+STU0780,Mechanical,Female,Nagpur,8.07,85.5,1,12.0,2,67.8,62.2,47.8,0,28.8,Placed,9.16
+STU0781,AI/ML,Male,Other,7.33,76.0,2,6.0,3,62.7,71.8,90.5,2,15.7,Not Placed,
+STU0782,Civil,Female,Pune,6.91,87.9,4,0.0,3,55.0,65.8,51.9,1,17.8,Not Placed,
+STU0783,IT,Male,Nagpur,9.36,89.2,1,2.0,4,57.1,85.3,61.3,3,21.0,Not Placed,
+STU0784,IT,Female,Pune,7.4,74.3,1,4.0,2,55.8,62.6,71.1,0,17.2,Not Placed,
+STU0785,Civil,Male,Pune,7.13,77.1,8,4.0,7,82.2,82.8,73.5,0,13.5,Placed,6.78
+STU0786,AI/ML,Male,Pune,8.75,59.7,2,0.0,2,59.1,51.0,45.3,1,13.5,Placed,6.17
+STU0787,Mechanical,Female,Aurangabad,6.84,71.1,2,4.0,1,50.9,73.7,56.5,0,11.9,Not Placed,
+STU0788,AI/ML,Male,Other,6.98,74.6,2,1.0,2,46.4,64.7,69.0,0,16.7,Not Placed,
+STU0789,Mechanical,Prefer not to say,Pune,7.61,82.7,3,1.0,1,59.9,54.7,77.0,0,13.0,Not Placed,
+STU0790,IT,Female,Mumbai,7.6,72.5,0,6.0,2,60.9,89.0,83.7,0,17.7,Not Placed,
+STU0791,CSE,Female,Pune,7.87,76.9,4,2.0,1,88.1,89.5,50.5,1,7.9,Not Placed,
+STU0792,AI/ML,Male,Pune,9.8,69.7,2,3.0,4,75.1,49.6,80.7,1,14.9,Placed,8.23
+STU0793,AI/ML,Female,Nagpur,7.95,83.7,1,3.0,4,60.8,70.6,81.5,2,23.3,Not Placed,
+STU0794,CSE,Female,Nashik,5.1,86.3,6,3.0,0,65.1,65.2,59.5,2,12.7,Not Placed,
+STU0795,CSE,Male,Nashik,7.94,86.0,2,0.0,3,70.3,74.0,41.0,0,25.1,Placed,5.76
+STU0796,AI/ML,Male,Mumbai,7.64,82.1,5,4.0,4,62.0,85.1,53.3,2,15.0,Placed,5.44
+STU0797,CSE,Female,Nagpur,7.65,66.6,4,1.0,3,88.8,80.8,58.1,1,13.7,Not Placed,
+STU0798,CSE,Female,Pune,7.86,75.8,5,,5,68.6,70.3,89.1,0,14.7,Placed,7.83
+STU0799,ENTC,Male,Pune,7.57,77.9,0,0.0,0,59.7,93.5,66.1,1,12.1,Not Placed,
+STU0800,ENTC,Male,Other,7.54,78.0,3,12.0,2,68.7,77.3,53.7,1,2.1,Placed,4.69
+STU0801,ENTC,Male,Aurangabad,8.24,82.7,3,6.0,1,70.3,65.3,69.0,2,19.3,Not Placed,
+STU0802,AI/ML,Male,Other,7.03,96.3,4,2.0,2,77.8,59.5,51.8,1,27.2,Not Placed,
+STU0803,Mechanical,Male,Other,6.6,90.1,5,1.0,4,56.4,78.5,76.4,0,16.9,Not Placed,
+STU0804,IT,Male,Nashik,10.0,72.1,4,2.0,1,85.8,66.1,53.4,1,17.2,Placed,8.08
+STU0805,CSE,Female,Other,6.85,88.8,3,6.0,1,61.3,59.5,57.4,0,12.9,Not Placed,
+STU0806,CSE,Male,Mumbai,7.71,88.4,4,4.0,1,75.9,65.1,74.3,2,20.9,Not Placed,
+STU0807,ENTC,Male,Pune,6.03,73.9,1,6.0,1,49.2,63.5,91.8,1,13.8,Not Placed,
+STU0808,CSE,Female,Pune,7.72,90.5,5,8.0,2,64.6,66.0,100.0,0,15.6,Placed,6.96
+STU0809,IT,Female,Pune,6.62,80.4,2,2.0,2,63.7,46.6,53.5,1,4.6,Not Placed,
+STU0810,Civil,Male,Pune,7.14,67.9,2,4.0,6,62.7,77.1,58.2,3,10.8,Not Placed,
+STU0811,CSE,Female,Mumbai,8.7,86.6,3,2.0,2,61.0,67.1,69.0,0,16.2,Not Placed,
+STU0812,CSE,Female,Nashik,8.1,84.2,2,,2,77.6,93.4,84.9,1,19.4,Placed,8.81
+STU0813,Civil,Female,Aurangabad,8.2,79.7,3,3.0,3,74.0,72.7,37.7,0,19.6,Not Placed,
+STU0814,IT,Male,Nagpur,5.74,81.6,3,6.0,2,53.1,74.1,69.4,2,4.5,Not Placed,
+STU0815,CSE,Male,Pune,9.53,74.8,5,0.0,4,72.9,81.6,60.6,0,5.1,Placed,5.23
+STU0816,Mechanical,Male,Aurangabad,6.35,88.1,3,0.0,1,60.7,78.0,42.0,0,17.5,Not Placed,
+STU0817,Mechanical,Female,Mumbai,9.2,81.6,4,1.0,2,80.4,80.3,49.5,1,9.5,Placed,5.93
+STU0818,IT,Female,Pune,8.67,83.7,2,12.0,2,63.2,74.3,60.5,1,19.4,Not Placed,
+STU0819,IT,Male,Mumbai,8.21,85.6,4,3.0,3,72.4,82.9,69.0,2,4.2,Not Placed,
+STU0820,AI/ML,Female,Mumbai,6.7,70.5,1,2.0,2,61.4,91.4,81.0,1,13.4,Not Placed,
+STU0821,CSE,Male,Pune,7.76,73.1,1,2.0,2,36.8,63.1,72.1,0,13.8,Placed,4.13
+STU0822,IT,Female,Aurangabad,7.11,59.9,5,,2,66.9,71.6,78.9,1,16.9,Not Placed,
+STU0823,AI/ML,Female,Aurangabad,7.63,87.6,2,8.0,2,68.6,67.5,69.3,1,7.8,Not Placed,
+STU0824,ENTC,Female,Nashik,7.34,69.9,0,12.0,3,62.0,70.3,56.9,0,2.2,Not Placed,
+STU0825,Mechanical,Male,Pune,5.46,82.3,4,6.0,1,62.4,58.4,65.8,1,15.0,Not Placed,
+STU0826,CSE,Male,Aurangabad,8.78,85.7,2,6.0,3,64.4,46.3,78.4,1,17.2,Not Placed,
+STU0827,IT,Male,Nashik,7.51,88.0,5,0.0,3,56.7,64.7,83.4,1,20.0,Placed,4.14
+STU0828,CSE,Female,Pune,7.09,70.0,3,0.0,5,42.9,75.2,64.7,1,11.8,Placed,6.61
+STU0829,Mechanical,Male,Nashik,7.01,81.3,3,4.0,3,71.4,55.0,55.1,0,18.7,Not Placed,
+STU0830,AI/ML,Male,Nagpur,7.98,98.7,7,4.0,4,80.5,81.4,74.9,1,16.9,Placed,7.39
+STU0831,IT,Female,Mumbai,6.66,99.1,5,0.0,1,74.3,67.1,77.0,1,21.9,Placed,5.72
+STU0832,IT,Male,Pune,5.23,91.9,2,6.0,2,41.9,55.7,69.0,1,13.7,Not Placed,
+STU0833,AI/ML,Female,Nagpur,8.03,85.4,4,0.0,2,75.8,79.8,59.1,0,3.6,Not Placed,
+STU0834,ENTC,Male,Pune,8.15,71.9,3,0.0,1,51.4,76.0,57.7,2,13.6,Not Placed,
+STU0835,ENTC,Female,Pune,7.39,82.3,4,1.0,1,55.7,71.8,79.7,2,14.5,Placed,6.57
+STU0836,IT,Male,Pune,6.39,80.4,7,6.0,1,66.5,73.7,62.3,0,17.1,Placed,6.24
+STU0837,ENTC,Male,Other,7.69,87.6,4,6.0,2,72.6,70.2,62.6,0,4.8,Placed,6.63
+STU0838,Civil,Female,Mumbai,6.06,75.7,4,3.0,1,74.3,39.8,85.0,0,12.1,Not Placed,
+STU0839,AI/ML,Male,Mumbai,6.52,80.3,7,6.0,3,63.5,57.5,48.8,1,19.2,Not Placed,
+STU0840,IT,Male,Mumbai,6.81,83.6,0,6.0,4,44.8,42.0,97.2,0,13.4,Not Placed,
+STU0841,CSE,Female,Other,8.49,84.5,4,2.0,4,61.0,78.7,60.0,1,12.2,Not Placed,
+STU0842,Mechanical,Male,Nagpur,7.22,86.9,4,6.0,6,56.7,76.5,81.0,2,25.4,Not Placed,
+STU0843,IT,Male,Other,7.13,76.2,4,0.0,1,85.3,75.4,66.0,1,7.6,Not Placed,
+STU0844,AI/ML,Male,Mumbai,9.65,68.6,3,3.0,1,81.7,79.6,70.4,1,21.4,Placed,6.77
+STU0845,CSE,Prefer not to say,Pune,7.97,98.2,4,0.0,2,78.6,81.9,66.5,2,20.1,Not Placed,
+STU0846,Mechanical,Female,Nagpur,7.96,100.0,3,2.0,3,63.0,51.5,82.4,1,12.6,Not Placed,
+STU0847,AI/ML,Male,Mumbai,7.21,86.5,5,3.0,1,65.5,64.4,63.9,0,13.8,Placed,5.64
+STU0848,ENTC,Male,Aurangabad,6.97,68.8,1,0.0,3,63.2,45.6,58.6,1,13.8,Not Placed,
+STU0849,CSE,Female,Other,5.3,82.3,3,3.0,0,46.5,51.9,92.7,3,15.1,Not Placed,
+STU0850,Civil,Female,Nagpur,8.62,87.1,1,4.0,4,61.9,91.1,69.3,0,10.4,Placed,6.39
+STU0851,CSE,Prefer not to say,Unknown,8.07,95.4,2,4.0,0,57.2,83.5,60.4,0,11.4,Placed,5.8
+STU0852,CSE,Female,Nagpur,7.41,69.9,4,0.0,3,60.1,72.5,45.9,0,11.9,Not Placed,
+STU0853,Mechanical,Male,Pune,7.46,80.8,0,0.0,2,57.3,63.8,94.2,1,12.1,Not Placed,
+STU0854,Civil,Male,Nagpur,8.37,84.0,1,1.0,3,55.3,58.3,60.8,1,12.1,Not Placed,
+STU0855,CSE,Female,Pune,5.97,90.6,6,6.0,3,63.9,63.2,98.1,0,0.6,Not Placed,
+STU0856,IT,Male,Aurangabad,6.98,78.6,5,8.0,2,67.1,77.1,73.4,0,14.6,Not Placed,
+STU0857,ENTC,Prefer not to say,Pune,6.41,66.4,6,1.0,0,61.5,64.8,68.4,0,10.8,Not Placed,
+STU0858,Mechanical,Male,Mumbai,9.46,88.2,1,6.0,0,60.9,56.3,71.4,1,2.8,Placed,6.7
+STU0859,AI/ML,Female,Nagpur,8.52,93.2,2,3.0,2,67.4,73.2,100.0,1,11.9,Placed,5.41
+STU0860,IT,Female,Pune,5.29,81.2,4,12.0,0,48.5,34.0,37.5,1,11.7,Not Placed,
+STU0861,ENTC,Male,Pune,6.01,86.1,3,0.0,1,55.7,70.2,71.7,0,21.7,Not Placed,
+STU0862,ENTC,Female,Nashik,7.46,77.3,1,3.0,1,69.8,57.3,64.0,0,10.8,Not Placed,
+STU0863,Mechanical,Male,Pune,7.1,73.5,3,4.0,1,48.4,49.0,64.2,0,18.0,Not Placed,
+STU0864,IT,Female,Nagpur,6.21,92.3,4,1.0,4,80.0,72.0,71.6,1,22.3,Not Placed,
+STU0865,CSE,Male,Mumbai,9.64,85.9,2,0.0,2,71.4,82.5,65.0,0,10.2,Placed,7.87
+STU0866,Civil,Male,Pune,7.93,86.9,1,0.0,2,65.4,71.5,71.5,1,13.7,Not Placed,
+STU0867,Mechanical,Male,Pune,8.1,97.0,2,2.0,1,56.6,97.0,69.7,3,24.4,Not Placed,
+STU0868,Mechanical,Prefer not to say,Aurangabad,6.87,71.5,5,6.0,1,75.1,70.1,48.6,0,15.4,Placed,4.96
+STU0869,CSE,Female,Other,8.36,76.5,4,6.0,1,68.2,61.6,72.9,0,16.2,Not Placed,
+STU0870,CSE,Male,Pune,7.2,83.6,3,0.0,2,57.5,71.5,78.5,1,11.6,Not Placed,
+STU0871,ENTC,Male,Other,7.3,76.4,4,6.0,6,58.2,61.4,60.0,0,18.1,Not Placed,
+STU0872,CSE,Male,Nagpur,8.24,89.8,3,2.0,0,64.2,85.6,95.3,1,13.8,Placed,6.1
+STU0873,Civil,Female,Nashik,5.89,80.1,2,12.0,1,56.8,62.7,86.7,1,3.0,Placed,5.56
+STU0874,AI/ML,Male,Nashik,9.28,72.1,0,0.0,1,68.0,77.2,78.9,1,11.9,Not Placed,
+STU0875,ENTC,Male,Nashik,7.79,82.7,5,6.0,0,68.1,50.3,80.0,1,6.9,Not Placed,
+STU0876,Mechanical,Male,Aurangabad,8.94,83.7,1,8.0,5,59.4,73.3,68.9,2,14.7,Placed,7.16
+STU0877,AI/ML,Prefer not to say,Nagpur,6.47,91.3,4,6.0,2,63.2,62.5,85.3,1,8.5,Placed,5.1
+STU0878,AI/ML,Female,Nagpur,6.63,85.9,3,6.0,3,53.9,50.9,90.7,0,16.9,Not Placed,
+STU0879,IT,Female,Mumbai,6.38,86.6,1,2.0,1,57.8,59.5,80.1,0,14.3,Not Placed,
+STU0880,IT,Female,Pune,7.86,85.2,3,6.0,3,71.5,73.5,60.6,1,6.5,Placed,5.88
+STU0881,AI/ML,Male,Nashik,7.67,80.1,2,3.0,2,69.9,66.8,67.5,0,11.0,Placed,4.09
+STU0882,IT,Female,Pune,7.11,74.8,4,2.0,1,63.0,46.9,75.4,2,17.7,Not Placed,
+STU0883,Civil,Male,Pune,6.54,84.9,3,12.0,2,63.2,59.4,80.3,1,20.9,Placed,5.13
+STU0884,IT,Female,Pune,6.27,78.7,3,1.0,2,54.9,55.2,66.8,0,8.6,Not Placed,
+STU0885,CSE,Male,Pune,7.55,98.9,2,2.0,0,43.8,70.9,62.3,2,7.4,Not Placed,
+STU0886,AI/ML,Female,Nashik,7.11,95.4,3,8.0,2,58.8,67.3,92.0,0,25.7,Not Placed,
+STU0887,AI/ML,Female,Unknown,6.88,88.3,2,1.0,4,54.0,59.6,54.0,0,13.9,Not Placed,
+STU0888,CSE,Female,Mumbai,9.22,85.8,7,0.0,1,69.6,68.6,55.5,0,14.5,Placed,6.3
+STU0889,CSE,Male,Pune,7.51,81.1,1,1.0,4,53.4,67.1,49.6,0,9.6,Not Placed,
+STU0890,ENTC,Male,Mumbai,8.93,69.4,1,6.0,1,67.8,82.4,53.5,0,15.3,Placed,7.51
+STU0891,AI/ML,Female,Mumbai,7.04,79.8,1,6.0,1,45.3,67.5,85.4,0,24.3,Not Placed,
+STU0892,Civil,Male,Aurangabad,7.86,83.0,5,0.0,1,61.8,85.0,86.3,0,15.5,Placed,6.62
+STU0893,CSE,Male,Nagpur,7.54,84.3,4,4.0,1,80.7,80.4,67.5,2,20.4,Placed,6.96
+STU0894,CSE,Female,Nagpur,5.82,86.7,4,3.0,2,40.2,77.8,75.8,1,14.2,Placed,3.57
+STU0895,ENTC,Male,Nagpur,9.1,91.2,0,4.0,2,63.5,90.6,69.2,1,7.8,Placed,7.47
+STU0896,Mechanical,Female,Other,7.46,75.1,5,4.0,2,55.1,84.1,50.7,1,9.9,Not Placed,
+STU0897,AI/ML,Female,Aurangabad,8.38,75.2,3,12.0,4,60.1,55.4,98.5,1,7.3,Placed,7.53
+STU0898,CSE,Male,Nagpur,6.81,96.5,2,1.0,2,55.4,73.0,89.2,1,15.3,Placed,5.27
+STU0899,CSE,Female,Nagpur,7.43,89.7,4,1.0,1,54.8,81.6,74.1,1,21.3,Not Placed,
+STU0900,IT,Female,Pune,6.69,78.1,3,4.0,2,64.5,79.3,55.8,0,15.0,Not Placed,
+STU0901,IT,Male,Other,8.9,80.9,4,2.0,1,85.8,62.8,65.0,1,12.2,Placed,6.63
+STU0902,AI/ML,Female,Mumbai,7.93,81.0,2,3.0,0,71.7,75.9,58.4,1,9.3,Not Placed,
+STU0903,CSE,Male,Pune,7.99,82.3,8,0.0,4,85.8,69.3,69.6,2,16.1,Placed,4.17
+STU0904,IT,Male,Other,9.03,86.7,2,0.0,6,55.2,95.5,73.1,2,6.6,Placed,4.87
+STU0905,Civil,Male,Nashik,8.81,100.0,3,8.0,4,67.4,57.4,65.6,0,7.2,Placed,6.96
+STU0906,ENTC,Male,Pune,8.4,83.9,2,0.0,0,70.4,61.1,48.1,0,19.4,Placed,6.72
+STU0907,IT,Male,Pune,6.11,88.6,0,4.0,6,58.5,39.6,98.9,0,12.3,Not Placed,
+STU0908,CSE,Prefer not to say,Pune,6.87,65.1,3,6.0,3,63.2,63.4,69.5,0,12.2,Not Placed,
+STU0909,AI/ML,Female,Nagpur,6.55,77.2,3,0.0,1,68.8,88.9,74.1,0,13.0,Placed,4.24
+STU0910,AI/ML,Female,Pune,8.36,94.3,3,0.0,3,76.4,70.9,63.8,1,18.4,Placed,5.77
+STU0911,ENTC,Male,Other,7.78,82.3,1,2.0,2,86.8,69.2,46.9,1,15.0,Placed,5.4
+STU0912,Mechanical,Male,Other,6.14,45.0,1,3.0,0,52.9,62.8,62.6,0,9.5,Not Placed,
+STU0913,Civil,Female,Nagpur,7.4,88.7,3,1.0,3,59.6,65.3,64.5,1,9.8,Not Placed,
+STU0914,Civil,Male,Nashik,6.03,100.0,8,4.0,3,67.1,66.7,80.3,1,12.8,Not Placed,
+STU0915,Civil,Female,Mumbai,7.54,62.0,2,0.0,1,52.1,68.8,78.5,0,15.8,Not Placed,
+STU0916,Civil,Male,Pune,5.86,82.3,1,0.0,4,51.1,51.1,80.8,2,13.8,Not Placed,
+STU0917,CSE,Female,Aurangabad,8.16,54.3,6,0.0,1,55.2,64.7,78.8,0,13.3,Not Placed,
+STU0918,CSE,Female,Pune,8.0,91.4,3,1.0,5,60.3,78.5,94.6,1,14.3,Placed,4.08
+STU0919,AI/ML,Female,Pune,9.6,81.9,3,2.0,2,72.8,86.3,73.7,0,13.8,Placed,6.46
+STU0920,IT,Female,Mumbai,8.49,58.5,1,12.0,4,73.6,83.3,80.8,0,9.3,Placed,7.89
+STU0921,CSE,Female,Pune,7.16,86.5,3,0.0,2,72.3,69.5,75.7,1,20.6,Not Placed,
+STU0922,Mechanical,Female,Mumbai,8.46,93.5,7,3.0,1,66.4,76.0,43.0,0,11.1,Placed,6.61
+STU0923,IT,Female,Nashik,6.13,85.6,3,3.0,3,76.6,70.0,66.5,2,14.8,Not Placed,
+STU0924,IT,Female,Aurangabad,6.59,87.8,0,6.0,0,53.8,56.1,56.8,0,1.6,Not Placed,
+STU0925,CSE,Female,Nashik,7.95,77.9,4,4.0,3,69.7,60.1,71.0,0,12.7,Not Placed,
+STU0926,AI/ML,Male,Other,5.33,63.4,2,0.0,5,33.5,53.5,54.9,1,7.4,Not Placed,
+STU0927,CSE,Female,Mumbai,7.56,88.9,4,4.0,6,59.1,52.1,77.5,2,8.1,Placed,3.63
+STU0928,Mechanical,Female,Other,6.53,99.5,2,1.0,3,66.5,69.2,84.1,0,28.5,Not Placed,
+STU0929,IT,Female,Nagpur,7.71,93.3,5,6.0,4,69.8,81.2,86.4,0,15.5,Placed,6.31
+STU0930,ENTC,Female,Pune,6.47,62.1,3,0.0,1,58.7,51.1,88.5,0,21.4,Not Placed,
+STU0931,AI/ML,Female,Other,8.05,66.9,3,6.0,2,68.1,72.1,43.0,0,19.1,Placed,6.06
+STU0932,AI/ML,Male,Pune,7.62,73.5,3,4.0,4,49.2,58.3,50.4,0,19.9,Placed,4.68
+STU0933,AI/ML,Prefer not to say,Pune,9.07,66.1,2,4.0,0,68.2,58.8,100.0,0,12.8,Placed,8.43
+STU0934,ENTC,Male,Pune,7.61,82.4,1,0.0,2,73.7,91.5,82.4,0,23.6,Placed,5.01
+STU0935,ENTC,Male,Mumbai,6.79,85.9,0,4.0,3,64.2,51.8,71.9,0,19.1,Not Placed,
+STU0936,CSE,Male,Mumbai,7.34,67.7,2,6.0,2,58.9,48.6,67.0,0,14.2,Placed,7.11
+STU0937,Civil,Female,Nagpur,6.19,89.8,1,3.0,2,67.8,64.4,68.4,0,15.6,Not Placed,
+STU0938,CSE,Male,Other,8.03,88.0,1,1.0,6,49.2,72.5,41.9,0,13.2,Placed,5.94
+STU0939,Mechanical,Male,Mumbai,8.22,76.5,5,0.0,3,61.0,76.7,56.8,0,14.3,Placed,5.51
+STU0940,CSE,Male,Nagpur,10.0,80.3,1,1.0,3,90.6,100.0,66.5,0,13.7,Not Placed,
+STU0941,AI/ML,Male,Mumbai,6.95,62.5,4,6.0,2,67.9,52.4,55.9,1,16.3,Not Placed,
+STU0942,Mechanical,Male,Other,7.32,78.7,2,2.0,3,57.2,58.2,59.7,1,24.4,Placed,3.67
+STU0943,CSE,Male,Pune,7.0,82.1,0,6.0,1,63.2,83.6,100.0,0,6.8,Placed,5.47
+STU0944,AI/ML,Male,Pune,7.82,83.7,6,6.0,3,62.6,79.2,64.9,1,20.9,Not Placed,
+STU0945,AI/ML,Female,Nagpur,8.0,85.8,0,4.0,1,62.4,78.5,72.6,1,11.8,Placed,6.73
+STU0946,CSE,Male,Nashik,7.54,84.4,5,4.0,4,69.2,59.7,71.9,0,21.6,Placed,5.71
+STU0947,ENTC,Female,Aurangabad,8.74,82.3,3,4.0,1,69.6,84.7,76.2,1,12.0,Not Placed,
+STU0948,Mechanical,Prefer not to say,Nagpur,6.95,84.9,4,3.0,1,50.5,74.0,61.9,0,16.5,Not Placed,
+STU0949,Mechanical,Male,Aurangabad,8.64,92.0,1,0.0,4,67.6,74.6,86.9,1,13.0,Not Placed,
+STU0950,AI/ML,Female,Mumbai,8.17,81.0,4,6.0,2,63.2,62.0,74.3,1,3.6,Not Placed,
+STU0951,IT,Male,Pune,7.59,85.2,1,12.0,2,49.6,68.4,50.6,0,24.4,Placed,5.37
+STU0952,CSE,Female,Pune,7.27,80.1,3,3.0,2,74.5,84.9,66.5,1,8.3,Not Placed,
+STU0953,CSE,Male,Pune,10.0,75.5,1,8.0,4,93.7,62.9,65.0,0,14.5,Placed,9.22
+STU0954,CSE,Male,Mumbai,6.74,87.2,4,12.0,3,80.5,54.2,65.8,0,7.7,Not Placed,
+STU0955,Civil,Male,Nagpur,7.91,76.4,1,3.0,2,67.6,59.9,74.7,0,6.0,Placed,5.05
+STU0956,Mechanical,Male,Mumbai,6.81,85.9,2,6.0,1,54.8,59.0,77.6,0,12.8,Not Placed,
+STU0957,ENTC,Female,Nagpur,9.47,82.3,0,4.0,1,66.5,74.5,75.5,0,10.4,Not Placed,
+STU0958,IT,Female,Nagpur,8.53,79.0,3,0.0,3,72.4,81.8,72.6,0,7.0,Not Placed,
+STU0959,IT,Male,Nashik,6.89,78.7,3,0.0,2,55.6,68.9,69.0,0,13.8,Not Placed,
+STU0960,IT,Female,Nashik,8.14,76.9,3,2.0,3,79.5,69.1,37.5,1,5.1,Not Placed,
+STU0961,IT,Male,Mumbai,7.87,65.5,2,6.0,1,42.6,69.2,77.2,1,14.8,Not Placed,
+STU0962,AI/ML,Female,Mumbai,7.06,85.8,3,1.0,2,57.8,72.4,75.5,0,13.2,Placed,6.75
+STU0963,CSE,Male,Nagpur,8.4,84.3,2,6.0,2,73.7,50.2,54.7,2,0.0,Not Placed,
+STU0964,CSE,Male,Nagpur,8.01,90.5,3,4.0,5,57.2,82.4,73.2,0,10.9,Placed,4.5
+STU0965,Civil,Male,Mumbai,7.83,76.7,7,6.0,2,70.3,57.2,76.7,1,16.8,Not Placed,
+STU0966,IT,Female,Mumbai,7.56,100.0,3,1.0,0,69.2,63.4,86.8,0,7.6,Not Placed,
+STU0967,Civil,Male,Nashik,8.05,78.2,5,3.0,1,85.0,72.3,74.9,1,17.1,Placed,4.65
+STU0968,CSE,Male,Nashik,7.84,73.2,3,0.0,4,51.8,65.8,71.7,1,16.6,Placed,3.91
+STU0969,IT,Female,Pune,7.66,72.1,3,0.0,1,50.2,71.7,80.3,1,7.9,Not Placed,
+STU0970,CSE,Male,Mumbai,6.93,64.7,4,0.0,0,52.6,63.6,61.9,1,13.9,Not Placed,
+STU0971,AI/ML,Male,Other,9.38,97.3,3,0.0,3,57.4,72.6,75.8,1,18.9,Not Placed,
+STU0972,CSE,Female,Pune,6.5,95.7,2,0.0,4,41.1,82.1,61.2,0,8.7,Not Placed,
+STU0973,CSE,Male,Other,8.05,88.0,4,4.0,3,58.1,77.9,84.5,1,12.8,Placed,6.34
+STU0974,Civil,Female,Unknown,7.26,73.0,3,2.0,2,74.1,67.9,44.6,0,20.9,Placed,3.05
+STU0975,AI/ML,Female,Nagpur,9.45,100.0,4,0.0,1,72.0,85.0,81.8,0,8.9,Placed,6.94
+STU0976,IT,Male,Mumbai,6.65,78.5,0,8.0,1,52.9,53.9,68.1,0,16.8,Not Placed,
+STU0977,IT,Male,Pune,6.83,79.3,4,3.0,4,52.0,89.3,81.4,1,7.5,Not Placed,
+STU0978,AI/ML,Male,Other,6.58,96.4,6,8.0,2,63.2,51.2,59.0,0,13.0,Placed,4.85
+STU0979,IT,Female,Mumbai,7.94,88.6,3,4.0,4,84.0,70.3,70.3,0,16.7,Placed,5.72
+STU0980,CSE,Male,Other,6.16,100.0,2,0.0,0,45.2,59.4,71.2,1,0.0,Not Placed,
+STU0981,Civil,Male,Mumbai,7.1,84.5,0,8.0,4,72.2,61.1,74.6,0,10.8,Placed,5.89
+STU0982,Mechanical,Male,Other,5.34,78.0,2,6.0,2,53.4,51.3,53.1,1,16.6,Not Placed,
+STU0983,ENTC,Male,Other,7.85,75.9,2,4.0,6,63.0,57.8,76.4,1,15.4,Placed,4.62
+STU0984,IT,Female,Nagpur,7.07,63.5,3,3.0,2,64.8,76.6,40.2,1,10.9,Placed,6.18
+STU0985,CSE,Male,Pune,6.04,79.2,3,2.0,1,59.3,45.4,58.6,1,7.4,Not Placed,
+STU0986,Civil,Female,Nashik,8.74,93.4,1,3.0,0,84.0,84.7,47.7,1,17.8,Not Placed,
+STU0987,AI/ML,Male,Nagpur,6.23,88.0,7,6.0,2,69.6,69.5,80.6,3,12.1,Placed,5.1
+STU0988,CSE,Male,Other,8.44,82.2,2,3.0,1,71.3,65.7,73.9,2,17.3,Not Placed,
+STU0989,AI/ML,Female,Mumbai,6.86,72.1,2,0.0,3,53.5,68.9,73.4,0,16.3,Not Placed,
+STU0990,Mechanical,Male,Pune,9.28,84.3,2,0.0,0,78.6,72.2,89.1,2,11.3,Not Placed,
+STU0991,IT,Female,Pune,8.39,92.1,4,0.0,1,60.1,58.1,65.0,0,20.4,Placed,6.06
+STU0992,ENTC,Male,Nashik,6.54,82.3,1,0.0,0,55.1,49.7,77.3,1,10.4,Not Placed,
+STU0993,Mechanical,Male,Other,6.64,83.7,3,2.0,0,87.4,70.8,69.4,0,21.1,Not Placed,
+STU0994,CSE,Female,Pune,8.24,74.0,2,8.0,2,39.8,75.7,66.1,1,21.9,Placed,7.07
+STU0995,Civil,Male,Aurangabad,7.32,90.7,2,0.0,3,62.4,69.5,87.6,1,20.3,Placed,4.32
+STU0996,AI/ML,Male,Other,7.42,50.7,4,1.0,4,67.3,57.5,93.6,0,12.9,Not Placed,
+STU0997,ENTC,Female,Pune,8.94,85.8,3,0.0,3,68.2,70.6,62.7,1,29.3,Placed,5.21
+STU0998,CSE,Male,Pune,6.81,100.0,2,3.0,3,55.4,61.7,82.1,4,14.9,Not Placed,
+STU0999,Civil,Female,Nashik,7.7,66.9,5,4.0,1,69.0,44.4,70.9,0,15.4,Placed,5.61
+STU1000,AI/ML,Male,Nashik,8.6,79.6,6,3.0,3,72.2,71.4,72.6,1,13.9,Not Placed,
+STU1001,CSE,Female,Pune,8.45,81.9,4,12.0,0,72.2,76.6,71.7,1,7.2,Placed,8.77
+STU1002,IT,Male,Other,7.43,77.4,4,12.0,1,59.8,66.3,63.0,1,21.8,Placed,8.01
+STU1003,CSE,Male,Nagpur,7.3,92.4,0,6.0,2,76.2,88.0,20.0,1,10.6,Not Placed,
+STU1004,CSE,Female,Other,5.77,82.3,3,6.0,2,51.5,47.6,90.3,3,19.5,Not Placed,
+STU1005,ENTC,Female,Other,6.49,83.5,0,2.0,4,57.4,54.3,58.7,0,21.0,Not Placed,
+STU1006,AI/ML,Male,Aurangabad,7.93,90.0,6,3.0,4,64.5,70.7,65.8,0,17.6,Placed,6.11
+STU1007,Civil,Male,Nagpur,7.46,82.2,4,1.0,2,74.1,69.1,65.2,1,9.8,Not Placed,
+STU1008,AI/ML,Male,Pune,7.68,100.0,3,6.0,1,71.3,46.4,59.4,1,12.0,Not Placed,
+STU1009,ENTC,Female,Nagpur,8.69,83.5,4,0.0,3,75.4,78.8,71.8,0,0.0,Not Placed,
+STU1010,IT,Female,Pune,6.35,84.0,4,0.0,2,48.7,64.7,67.9,2,13.3,Not Placed,
+STU1011,ENTC,Prefer not to say,Nashik,7.35,64.9,5,0.0,0,58.7,38.2,56.2,0,18.8,Not Placed,
+STU1012,IT,Male,Pune,7.8,76.6,2,4.0,3,79.4,65.6,69.7,0,12.6,Not Placed,
+STU1013,IT,Male,Nagpur,6.86,93.5,4,6.0,0,54.0,55.3,69.2,2,10.5,Not Placed,
+STU1014,Civil,Male,Pune,9.1,68.6,2,0.0,2,75.7,66.0,79.6,2,12.2,Not Placed,
+STU1015,AI/ML,Male,Mumbai,8.55,60.4,6,3.0,3,65.0,52.1,46.9,0,21.3,Not Placed,
+STU1016,CSE,Female,Pune,7.9,82.3,4,2.0,3,77.2,73.1,57.0,0,13.7,Not Placed,
+STU1017,ENTC,Female,Nashik,9.48,95.7,2,6.0,3,64.4,97.4,80.0,2,25.1,Placed,7.27
+STU1018,Mechanical,Male,Aurangabad,6.03,82.4,4,0.0,2,47.7,63.4,59.3,1,10.6,Not Placed,
+STU1019,CSE,Male,Pune,7.59,78.6,1,0.0,3,52.3,40.4,55.2,0,15.3,Not Placed,
+STU1020,AI/ML,Female,Other,7.98,63.4,1,4.0,1,56.0,69.6,57.7,2,11.4,Not Placed,
+STU1021,Mechanical,Female,Other,6.64,86.5,1,4.0,2,58.6,60.9,67.4,0,26.4,Not Placed,
+STU1022,ENTC,Male,Mumbai,7.92,88.6,0,6.0,7,59.9,55.7,67.7,2,15.1,Not Placed,
+STU1023,Civil,Male,Nashik,6.44,64.2,2,4.0,1,44.5,64.0,63.2,0,26.8,Not Placed,
+STU1024,IT,Female,Mumbai,8.33,93.3,2,12.0,1,65.0,81.7,55.2,0,11.5,Not Placed,
+STU1025,ENTC,Male,Pune,8.71,89.7,4,1.0,3,59.9,64.3,80.0,0,23.2,Placed,5.76
+STU1026,AI/ML,Female,Nagpur,7.89,93.3,1,2.0,1,67.5,49.6,88.2,0,14.7,Not Placed,
+STU1027,Civil,Male,Unknown,5.65,87.8,0,12.0,2,55.6,35.1,42.2,3,19.0,Not Placed,
+STU1028,AI/ML,Female,Other,6.58,88.5,2,0.0,3,56.0,55.3,47.3,0,6.7,Not Placed,
+STU1029,ENTC,Female,Other,8.19,87.2,2,6.0,2,67.3,68.0,82.9,0,16.1,Placed,6.63
+STU1030,AI/ML,Male,Other,7.62,90.7,1,0.0,1,77.1,61.7,91.3,1,7.6,Placed,5.87
+STU1031,IT,Female,Nagpur,4.77,63.8,3,3.0,2,47.2,44.5,36.2,1,15.5,Not Placed,
+STU1032,ENTC,Male,Nagpur,8.9,67.0,2,0.0,2,58.8,77.2,77.9,0,4.9,Not Placed,
+STU1033,IT,Female,Other,7.74,74.6,4,,3,72.0,72.0,90.3,0,13.4,Placed,7.37
+STU1034,Civil,Male,Pune,6.74,80.7,3,6.0,2,47.7,65.4,56.0,0,20.6,Not Placed,
+STU1035,AI/ML,Male,Pune,8.64,85.9,5,0.0,3,70.8,81.4,90.8,0,17.3,Not Placed,
+STU1036,ENTC,Male,Nagpur,6.89,85.2,3,0.0,1,53.8,56.3,66.1,1,6.6,Not Placed,
+STU1037,AI/ML,Female,Mumbai,6.88,93.2,2,1.0,2,50.8,51.9,74.0,1,2.6,Not Placed,
+STU1038,AI/ML,Female,Mumbai,7.98,82.3,4,0.0,3,65.0,63.5,59.6,1,17.0,Not Placed,
+STU1039,AI/ML,Female,Pune,9.47,73.3,0,2.0,3,76.2,66.5,81.2,0,23.5,Not Placed,
+STU1040,CSE,Male,Nagpur,9.3,84.4,0,12.0,2,77.4,49.6,80.2,0,8.2,Placed,7.73
+STU1041,CSE,Female,Pune,7.98,73.5,2,0.0,0,72.8,60.8,91.4,0,26.6,Not Placed,
+STU1042,ENTC,Female,Pune,8.09,82.3,3,,4,69.4,81.8,88.2,1,14.0,Placed,6.51
+STU1043,ENTC,Female,Pune,8.43,85.2,2,2.0,5,63.3,80.2,68.5,0,2.2,Placed,6.0
+STU1044,ENTC,Female,Mumbai,6.28,47.9,3,1.0,2,33.1,63.4,100.0,3,4.6,Not Placed,
+STU1045,CSE,Male,Other,8.28,100.0,6,0.0,5,76.7,73.4,89.3,1,18.6,Placed,7.29
+STU1046,AI/ML,Female,Mumbai,6.83,87.7,2,6.0,3,34.7,81.6,76.5,1,14.8,Placed,5.32
+STU1047,CSE,Female,Nashik,7.93,76.0,1,4.0,2,42.0,54.7,53.6,0,22.9,Placed,4.95
+STU1048,ENTC,Male,Aurangabad,7.36,100.0,1,6.0,2,56.7,56.3,49.0,3,6.8,Not Placed,
+STU1049,Mechanical,Male,Mumbai,8.13,78.5,4,2.0,3,70.9,82.1,47.6,1,14.7,Placed,4.87
+STU1050,CSE,Female,Other,7.72,83.3,1,4.0,3,55.6,67.8,55.3,1,14.0,Placed,3.2
+STU1051,ENTC,Male,Unknown,4.37,77.1,7,8.0,1,70.1,44.6,86.9,3,13.1,Not Placed,
+STU1052,CSE,Male,Nagpur,7.79,98.5,1,6.0,1,65.1,76.2,77.0,2,11.7,Not Placed,
+STU1053,AI/ML,Female,Pune,8.27,81.0,3,8.0,1,64.5,64.2,59.5,0,11.8,Not Placed,
+STU1054,CSE,Male,Pune,8.07,83.5,3,0.0,1,79.8,58.9,66.5,0,15.0,Placed,6.85
+STU1055,AI/ML,Male,Other,7.49,94.0,2,12.0,1,76.6,57.4,66.1,1,15.8,Placed,6.89
+STU1056,ENTC,Male,Aurangabad,9.32,87.9,0,6.0,4,63.2,78.6,80.1,0,15.5,Placed,8.63
+STU1057,Civil,Male,Other,7.93,81.5,2,6.0,1,55.5,70.6,55.9,0,21.2,Placed,5.22
+STU1058,CSE,Male,Other,8.06,93.1,1,4.0,1,56.4,88.2,74.5,0,6.8,Not Placed,
+STU1059,IT,Female,Pune,8.7,82.3,1,12.0,2,50.8,70.1,74.6,0,3.1,Placed,5.5
+STU1060,ENTC,Male,Aurangabad,7.98,85.2,6,2.0,0,71.1,65.1,56.7,1,20.1,Not Placed,
+STU1061,Civil,Male,Mumbai,6.66,83.2,6,6.0,1,54.1,80.2,69.0,2,8.3,Not Placed,
+STU1062,IT,Prefer not to say,Aurangabad,5.04,83.7,2,6.0,4,44.9,68.0,64.3,1,11.7,Not Placed,
+STU1063,AI/ML,Male,Pune,7.1,95.1,3,6.0,2,63.5,68.0,55.9,1,10.3,Placed,4.68
+STU1064,IT,Female,Mumbai,8.4,76.0,4,6.0,3,49.8,50.7,79.5,0,10.2,Placed,7.12
+STU1065,AI/ML,Male,Aurangabad,7.23,79.2,2,0.0,1,47.0,55.1,68.7,0,5.3,Not Placed,
+STU1066,Civil,Female,Aurangabad,8.44,66.6,0,1.0,3,56.8,55.8,72.1,0,10.6,Not Placed,
+STU1067,AI/ML,Male,Nashik,7.76,70.2,5,2.0,3,67.8,66.5,50.2,1,17.9,Placed,5.09
+STU1068,ENTC,Male,Mumbai,8.95,76.8,4,6.0,1,67.6,65.7,79.0,4,14.0,Not Placed,
+STU1069,CSE,Male,Mumbai,7.29,81.4,4,6.0,3,61.2,84.6,98.6,0,17.0,Not Placed,
+STU1070,AI/ML,Male,Other,8.09,99.7,5,6.0,2,63.0,52.1,52.7,0,11.0,Placed,6.49
+STU1071,Mechanical,Male,Mumbai,8.13,87.4,6,6.0,2,57.8,55.7,73.8,1,19.4,Not Placed,
+STU1072,IT,Male,Mumbai,9.18,72.9,2,4.0,2,64.4,75.2,56.2,1,10.9,Placed,7.62
+STU1073,AI/ML,Male,Nagpur,5.81,74.7,6,0.0,4,58.1,64.6,100.0,1,1.3,Not Placed,
+STU1074,Civil,Male,Mumbai,7.12,95.7,4,4.0,3,59.9,35.3,87.2,3,15.9,Not Placed,
+STU1075,Mechanical,Male,Nagpur,8.49,93.3,2,8.0,2,67.3,51.0,73.5,0,18.6,Not Placed,
+STU1076,AI/ML,Female,Mumbai,9.22,82.3,1,4.0,1,72.1,70.4,51.1,2,10.6,Placed,5.1
+STU1077,IT,Male,Other,7.85,77.6,5,8.0,3,75.6,83.6,53.9,1,21.2,Placed,7.53
+STU1078,IT,Female,Other,7.29,93.2,4,12.0,2,57.6,89.5,80.0,1,8.9,Placed,6.21
+STU1079,ENTC,Male,Other,8.39,72.1,3,1.0,2,51.9,63.9,48.0,1,18.0,Not Placed,
+STU1080,AI/ML,Male,Nagpur,8.51,85.9,5,6.0,4,85.0,69.0,50.1,2,24.5,Not Placed,
+STU1081,CSE,Male,Mumbai,7.22,100.0,4,3.0,4,67.4,57.3,70.5,0,14.2,Not Placed,
+STU1082,Civil,Female,Nashik,7.95,84.1,5,2.0,0,59.8,76.1,70.4,1,12.6,Not Placed,
+STU1083,Civil,Female,Other,8.84,74.2,4,0.0,1,74.7,89.4,72.6,1,13.4,Not Placed,
+STU1084,Mechanical,Male,Nagpur,9.58,86.1,3,0.0,6,84.5,90.6,62.6,0,23.8,Placed,6.98
+STU1085,Civil,Female,Nashik,8.38,77.3,2,0.0,1,82.9,69.1,69.0,1,16.4,Not Placed,
+STU1086,ENTC,Female,Aurangabad,7.65,68.1,1,4.0,2,62.3,55.2,54.5,1,26.9,Not Placed,
+STU1087,ENTC,Male,Nashik,7.54,89.0,4,0.0,4,75.8,67.4,77.9,1,15.7,Placed,6.85
+STU1088,ENTC,Male,Aurangabad,8.19,93.2,0,2.0,2,63.2,87.2,72.6,0,10.1,Placed,4.01
+STU1089,IT,Female,Pune,7.48,82.3,2,3.0,2,60.5,61.1,76.3,1,10.5,Placed,4.18
+STU1090,IT,Female,Nagpur,7.8,78.2,5,2.0,2,65.2,45.4,84.3,1,14.4,Placed,6.6
+STU1091,CSE,Prefer not to say,Nagpur,6.49,72.4,4,6.0,1,63.2,56.6,60.7,0,1.8,Not Placed,
+STU1092,ENTC,Male,Unknown,8.96,80.5,2,2.0,2,84.7,68.9,58.8,0,11.2,Placed,7.49
+STU1093,AI/ML,Male,Other,6.4,76.4,4,0.0,3,61.8,39.2,43.9,2,11.3,Not Placed,
+STU1094,AI/ML,Female,Nashik,7.15,71.9,3,12.0,0,51.8,66.4,38.8,0,15.4,Placed,5.59
+STU1095,IT,Female,Pune,7.7,100.0,4,6.0,3,53.4,75.4,67.9,0,25.7,Placed,6.87
+STU1096,AI/ML,Female,Aurangabad,9.69,86.7,0,4.0,2,84.8,98.4,67.3,1,14.3,Placed,8.14
+STU1097,CSE,Male,Nashik,7.16,87.7,2,6.0,2,64.4,49.6,53.7,2,2.5,Not Placed,
+STU1098,Mechanical,Female,Aurangabad,6.9,90.8,2,0.0,2,62.4,73.6,57.1,1,8.5,Not Placed,
+STU1099,Mechanical,Female,Mumbai,7.02,89.7,0,6.0,1,51.1,76.9,90.5,1,15.6,Not Placed,
+STU1100,CSE,Male,Other,9.34,77.9,2,0.0,1,73.2,79.8,69.0,2,14.6,Not Placed,
+STU1101,CSE,Male,Mumbai,4.65,84.7,3,3.0,3,38.3,42.6,50.9,4,23.7,Not Placed,
+STU1102,AI/ML,Male,Nagpur,6.55,79.3,2,0.0,1,59.9,49.2,61.7,2,19.8,Not Placed,
+STU1103,Mechanical,Male,Pune,10.0,86.4,1,6.0,2,60.3,78.5,74.5,0,19.6,Placed,8.54
+STU1104,Mechanical,Male,Nashik,8.22,85.4,3,0.0,1,63.2,70.9,59.9,2,12.7,Not Placed,
+STU1105,CSE,Male,Nashik,6.44,78.2,5,0.0,4,55.1,54.7,56.5,1,20.6,Placed,3.05
+STU1106,ENTC,Female,Nagpur,7.56,68.7,4,0.0,2,32.7,80.5,61.9,1,8.6,Not Placed,
+STU1107,CSE,Male,Nagpur,7.67,83.5,2,6.0,4,58.4,62.4,83.7,0,19.8,Placed,6.37
+STU1108,AI/ML,Male,Aurangabad,8.49,80.0,4,1.0,2,61.2,47.5,84.5,0,12.3,Not Placed,
+STU1109,Civil,Male,Nashik,9.53,63.1,3,3.0,2,71.5,69.9,55.7,0,5.3,Placed,7.99
+STU1110,CSE,Male,Pune,8.01,87.1,4,1.0,2,67.7,74.9,75.3,0,17.6,Not Placed,
+STU1111,CSE,Prefer not to say,Other,7.03,91.7,4,6.0,2,80.2,69.6,69.3,0,22.4,Not Placed,
+STU1112,AI/ML,Female,Nashik,8.43,100.0,2,0.0,4,68.9,76.4,56.3,0,11.6,Not Placed,
+STU1113,IT,Male,Other,6.87,78.1,4,12.0,2,65.1,81.2,63.6,1,23.4,Placed,7.07
+STU1114,Civil,Female,Other,6.51,76.6,2,1.0,6,60.8,48.2,49.9,0,4.1,Not Placed,
+STU1115,Civil,Female,Other,5.75,70.9,2,0.0,4,60.6,52.6,83.2,1,6.8,Not Placed,
+STU1116,CSE,Female,Aurangabad,5.96,84.1,4,0.0,1,61.5,78.7,90.2,0,13.1,Not Placed,
+STU1117,CSE,Female,Nashik,6.66,84.0,2,0.0,2,59.4,39.4,62.7,0,11.8,Not Placed,
+STU1118,Mechanical,Male,Pune,6.36,73.9,3,3.0,2,64.2,59.9,58.2,2,10.0,Not Placed,
+STU1119,AI/ML,Male,Nagpur,7.93,80.3,6,0.0,4,47.0,82.7,82.8,1,14.8,Not Placed,
+STU1120,Mechanical,Male,Aurangabad,6.34,62.2,1,8.0,1,73.9,73.7,82.9,2,10.8,Placed,4.65
+STU1121,ENTC,Female,Nagpur,4.3,91.3,4,3.0,2,64.3,61.9,53.8,1,11.8,Not Placed,
+STU1122,CSE,Female,Other,6.5,74.3,0,0.0,2,54.0,69.4,65.2,1,15.7,Not Placed,
+STU1123,Mechanical,Male,Pune,7.1,81.7,4,2.0,1,48.8,52.1,67.4,0,10.0,Not Placed,
+STU1124,CSE,Female,Mumbai,6.96,67.7,2,0.0,4,70.3,78.8,55.7,1,13.4,Not Placed,
+STU1125,AI/ML,Female,Nagpur,9.2,76.2,5,0.0,1,68.9,58.4,72.9,0,10.1,Placed,6.1
+STU1126,IT,Prefer not to say,Mumbai,6.96,79.2,5,1.0,5,69.5,50.1,58.1,1,6.8,Not Placed,
+STU1127,IT,Female,Pune,8.52,81.9,2,0.0,3,53.5,75.3,60.7,0,18.6,Not Placed,
+STU1128,ENTC,Female,Pune,7.58,86.8,2,0.0,4,83.7,61.3,67.4,1,24.2,Placed,6.69
+STU1129,ENTC,Male,Other,7.56,96.4,6,8.0,1,54.9,70.8,49.1,1,20.4,Not Placed,
+STU1130,Civil,Male,Nagpur,6.72,82.3,2,4.0,4,57.6,69.1,40.3,2,16.0,Not Placed,
+STU1131,Civil,Male,Pune,7.54,91.6,6,8.0,4,48.0,89.0,82.2,0,10.2,Placed,5.54
+STU1132,IT,Female,Pune,6.8,96.5,1,0.0,5,54.9,70.3,59.6,1,12.3,Not Placed,
+STU1133,CSE,Male,Nagpur,7.78,87.7,3,6.0,5,60.2,60.8,98.8,1,20.3,Not Placed,
+STU1134,ENTC,Female,Pune,7.35,81.6,5,2.0,4,77.6,73.8,95.8,0,0.3,Placed,6.77
+STU1135,Civil,Male,Nashik,6.61,92.1,2,0.0,0,52.1,53.8,62.4,1,11.8,Not Placed,
+STU1136,AI/ML,Male,Aurangabad,8.64,92.7,5,6.0,1,84.3,83.4,100.0,0,18.4,Placed,8.08
+STU1137,IT,Male,Pune,8.05,88.5,5,0.0,3,59.6,70.2,82.1,0,7.2,Placed,5.95
+STU1138,AI/ML,Female,Nagpur,7.13,67.5,2,2.0,3,56.3,67.9,57.5,2,16.5,Not Placed,
+STU1139,CSE,Male,Pune,7.75,73.6,4,6.0,1,63.7,45.0,31.1,0,16.3,Not Placed,
+STU1140,ENTC,Female,Mumbai,7.51,79.3,3,4.0,0,68.0,39.0,77.6,0,5.3,Not Placed,
+STU1141,AI/ML,Female,Other,6.69,89.8,5,3.0,2,66.5,45.9,69.6,0,14.5,Not Placed,
+STU1142,Mechanical,Female,Nagpur,7.67,81.8,1,1.0,3,67.1,88.0,74.3,0,10.3,Placed,6.0
+STU1143,Mechanical,Male,Other,6.95,93.4,6,0.0,1,68.8,51.6,66.4,1,16.5,Not Placed,
+STU1144,Mechanical,Female,Pune,6.61,95.2,5,12.0,4,69.0,73.0,53.8,0,18.0,Placed,7.45
+STU1145,AI/ML,Male,Mumbai,5.9,94.0,3,0.0,1,45.7,53.4,63.7,0,16.4,Not Placed,
+STU1146,AI/ML,Female,Nagpur,7.22,94.1,5,0.0,2,69.4,63.7,79.6,0,14.4,Placed,5.1
+STU1147,ENTC,Male,Nagpur,8.2,71.6,4,0.0,3,84.7,67.5,62.0,0,15.7,Placed,6.08
+STU1148,Mechanical,Male,Other,6.87,86.8,2,8.0,2,40.9,84.0,63.8,0,6.9,Not Placed,
+STU1149,IT,Female,Pune,10.0,75.9,1,6.0,1,76.9,83.1,46.2,0,13.8,Placed,6.23
+STU1150,Mechanical,Female,Other,8.53,65.5,3,2.0,4,75.1,73.3,67.5,1,9.2,Not Placed,
+STU1151,CSE,Female,Other,8.97,79.1,8,12.0,3,95.3,87.7,52.3,1,20.2,Not Placed,
+STU1152,Mechanical,Male,Nagpur,8.44,95.2,3,0.0,1,75.1,64.3,82.7,0,18.1,Not Placed,
+STU1153,CSE,Female,Mumbai,9.55,86.6,4,8.0,1,76.7,88.3,58.5,0,18.1,Placed,6.27
+STU1154,CSE,Male,Nagpur,6.77,100.0,3,0.0,6,63.5,76.2,66.3,1,24.3,Not Placed,
+STU1155,IT,Male,Mumbai,4.91,83.8,2,2.0,1,40.2,66.4,98.8,1,12.0,Placed,4.0
+STU1156,CSE,Male,Aurangabad,7.13,100.0,5,0.0,0,61.2,65.1,66.1,1,10.7,Not Placed,
+STU1157,CSE,Male,Nagpur,8.19,83.8,0,12.0,2,47.2,64.2,62.3,1,11.9,Not Placed,
+STU1158,CSE,Male,Other,7.76,82.2,1,8.0,2,75.2,57.0,76.5,0,4.4,Not Placed,
+STU1159,AI/ML,Prefer not to say,Nashik,7.89,69.2,2,,3,67.5,56.8,41.7,0,4.9,Not Placed,
+STU1160,ENTC,Female,Nagpur,8.99,93.1,5,0.0,3,65.6,62.9,87.1,0,17.7,Placed,5.72
+STU1161,CSE,Male,Nashik,8.0,77.0,6,0.0,3,74.3,72.2,81.6,1,5.6,Placed,4.52
+STU1162,ENTC,Female,Nagpur,8.44,75.5,6,2.0,2,85.5,66.8,74.8,0,7.6,Placed,6.38
+STU1163,Mechanical,Male,Other,6.61,94.8,2,1.0,4,66.3,69.3,22.5,0,13.4,Not Placed,
+STU1164,CSE,Male,Pune,6.45,93.6,6,0.0,1,54.3,69.2,66.0,0,11.5,Placed,4.98
+STU1165,CSE,Male,Other,9.29,93.3,4,4.0,5,43.0,62.5,51.8,0,19.3,Placed,6.06
+STU1166,Mechanical,Male,Aurangabad,7.71,78.4,5,4.0,0,72.0,53.7,83.5,1,14.4,Not Placed,
+STU1167,Mechanical,Female,Other,6.95,81.5,4,8.0,2,53.3,61.2,82.9,1,9.2,Not Placed,
+STU1168,IT,Male,Nagpur,6.95,81.4,2,3.0,3,64.4,54.7,73.6,0,19.8,Not Placed,
+STU1169,Mechanical,Female,Other,6.92,89.8,0,1.0,2,63.5,54.3,52.3,2,18.4,Not Placed,
+STU1170,CSE,Male,Mumbai,6.86,97.5,7,3.0,3,78.8,85.9,91.0,0,5.5,Not Placed,
+STU1171,AI/ML,Male,Aurangabad,6.25,85.7,0,0.0,4,67.9,43.1,69.0,1,15.5,Not Placed,
+STU1172,ENTC,Female,Pune,6.02,100.0,4,4.0,2,69.7,86.6,95.7,0,9.7,Not Placed,
+STU1173,AI/ML,Female,Mumbai,7.4,91.0,5,6.0,1,84.0,70.5,73.0,0,9.6,Placed,7.66
+STU1174,ENTC,Female,Mumbai,6.98,79.7,6,0.0,2,80.1,75.7,75.1,0,25.2,Placed,5.52
+STU1175,IT,Female,Mumbai,8.76,90.3,3,1.0,1,84.2,83.0,69.0,1,14.7,Not Placed,
+STU1176,ENTC,Female,Mumbai,7.91,99.1,6,8.0,7,70.7,77.5,90.0,0,12.7,Placed,6.11
+STU1177,IT,Male,Other,7.88,100.0,4,3.0,2,54.1,90.0,78.9,0,14.5,Placed,6.71
+STU1178,AI/ML,Male,Pune,6.82,93.9,4,3.0,3,86.3,51.9,89.9,0,19.2,Placed,5.66
+STU1179,CSE,Female,Aurangabad,7.47,82.3,3,6.0,1,63.5,64.4,70.8,2,9.8,Not Placed,
+STU1180,CSE,Male,Pune,7.98,79.8,5,3.0,2,81.8,57.9,67.3,1,10.8,Not Placed,
+STU1181,ENTC,Male,Aurangabad,8.35,87.8,2,0.0,3,63.2,50.3,77.3,1,17.9,Not Placed,
+STU1182,CSE,Female,Aurangabad,7.5,82.3,4,6.0,1,74.6,60.4,90.4,0,4.9,Not Placed,
+STU1183,CSE,Female,Mumbai,8.73,86.3,5,8.0,1,48.9,94.5,83.0,0,19.9,Placed,5.88
+STU1184,CSE,Female,Aurangabad,7.61,86.5,2,0.0,4,57.5,65.3,70.7,1,4.4,Not Placed,
+STU1185,CSE,Female,Other,8.43,82.5,3,0.0,1,66.9,94.1,42.3,0,12.5,Placed,6.11
+STU1186,Mechanical,Male,Aurangabad,7.09,78.7,1,6.0,3,61.5,89.3,79.2,2,4.4,Placed,5.61
+STU1187,AI/ML,Prefer not to say,Mumbai,5.7,80.4,3,4.0,3,64.4,94.5,47.9,1,7.7,Not Placed,
+STU1188,Civil,Female,Nagpur,7.88,83.4,3,2.0,2,54.0,91.0,68.9,1,21.8,Not Placed,
+STU1189,CSE,Male,Aurangabad,8.36,99.2,2,3.0,1,72.1,100.0,68.7,0,20.3,Not Placed,
+STU1190,ENTC,Female,Mumbai,8.2,79.6,2,6.0,1,76.9,72.9,48.1,0,20.9,Not Placed,
+STU1191,AI/ML,Male,Aurangabad,8.04,82.5,3,3.0,5,89.3,71.4,73.5,0,5.3,Placed,7.41
+STU1192,AI/ML,Male,Mumbai,7.23,73.3,2,0.0,1,66.7,67.7,97.4,1,7.7,Not Placed,
+STU1193,Mechanical,Female,Aurangabad,6.75,89.2,5,0.0,1,58.5,64.1,64.7,0,16.0,Not Placed,
+STU1194,Civil,Female,Pune,8.18,95.7,0,2.0,2,47.8,72.6,80.6,2,18.3,Placed,6.01
+STU1195,Mechanical,Male,Pune,8.05,98.2,3,8.0,3,84.2,79.6,100.0,0,9.2,Placed,6.87
+STU1196,CSE,Prefer not to say,Other,7.01,84.0,2,3.0,2,65.8,58.9,80.6,0,10.5,Not Placed,
+STU1197,CSE,Female,Unknown,8.76,87.7,5,1.0,2,73.3,55.8,59.9,1,7.2,Not Placed,
+STU1198,ENTC,Female,Other,6.67,80.5,2,8.0,0,40.5,67.0,71.4,0,23.9,Not Placed,
+STU1199,AI/ML,Female,Other,6.99,87.3,4,2.0,1,53.0,56.5,69.0,0,11.2,Not Placed,
+STU1200,ENTC,Male,Mumbai,9.32,85.1,6,3.0,2,84.8,67.3,88.7,0,14.2,Placed,8.24
